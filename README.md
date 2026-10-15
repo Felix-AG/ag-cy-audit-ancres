@@ -10,10 +10,17 @@ Le journal est chaîné ligne à ligne (SHA-256) : la chaîne seule détecte une
 milieu d'un fichier, mais pas un fichier supprimé, une fin tronquée ni une réécriture complète avec chaîne
 recalculée. Une fois ancrée ici, l'empreinte de la dernière ligne fige tout ce qui la précède.
 
-- `ancres/ancre-<AAAAMMJJTHHMMSS>Z.json` : un manifeste par jour ouvré, cumulatif (tous les fichiers du journal), produit
-  par le flow Kestra `agcy.ancrage_audit` après vérification du journal contre le manifeste précédent ; un journal en
-  défaut n'est jamais ancré (le flow échoue).
-- `empreinte` : SHA-256 de la liste `fichiers`, contrôlée à la relecture (manifeste altéré → signalé).
+- `ancres/ancre-<AAAAMMJJTHHMMSS>Z.json` : un manifeste par jour ouvré, cumulatif (tout le journal), produit par le
+  flow Kestra `agcy.ancrage_audit` après vérification du journal contre le manifeste précédent ; un journal en défaut
+  n'est jamais ancré (le flow échoue).
+- Version 1 (jusqu'au 2026-10-15) : `fichiers` liste chaque fichier (nom, lignes, empreinte de fin) ; `empreinte` est
+  le SHA-256 de `{"fichiers": …}`.
+- Version 2 (depuis le 2026-10-15) : `fichiers` ne liste plus que les fichiers du jour ; chaque jour révolu tient en une
+  entrée de `jours` : nombre de fichiers clos et SHA-256 de leurs entrées (même forme qu'en version 1), plus, un par
+  un, ses fichiers sans `stop` (`ouverts`). `empreinte` couvre `{"fichiers": …, "jours": …}`. Un fichier d'un jour
+  révolu ne peut plus apparaître (son nom est l'heure de démarrage du processus), et un fichier clos ne change plus :
+  un écart sur un jour est une altération ; les manifestes version 1 de ce dépôt permettent d'en localiser le fichier.
+- Toute empreinte est contrôlée à la relecture (manifeste altéré → signalé).
 
 ## Vérifier
 Sur la machine qui porte le journal, avec un clone de ce dépôt :
