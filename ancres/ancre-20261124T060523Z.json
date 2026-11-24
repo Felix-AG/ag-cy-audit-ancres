@@ -1,0 +1,3488 @@
+{
+ "version": 2,
+ "genere": "2026-11-24T06:05:23+00:00",
+ "fichiers": [
+  {
+   "nom": "audit-20261124T002906Z-27060.jsonl",
+   "lignes": 2,
+   "fin": "1fa326dbf51e8f492d0d02bb3bdf010ed8b3b2bd95799ebf6c4c0db60c6da3ef",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T002914Z-27924.jsonl",
+   "lignes": 2,
+   "fin": "73471f6cb81169755bd9e605bf85b4e878ed8b67e1d2f902d172bba60bb93528",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T002920Z-28044.jsonl",
+   "lignes": 2,
+   "fin": "fbd2fa8bd5f42ba5884df0a855bed33d6d5c434b02ba90b8be064fda29f45cc4",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T002928Z-10548.jsonl",
+   "lignes": 2,
+   "fin": "d902789cbab9bb82b67fa0888880f3c1c581a54f18681826f8b0dda0f9d65431",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T003037Z-13512.jsonl",
+   "lignes": 2,
+   "fin": "07b2ffac0d70398fb3873b8e23583bab902edcbf08f93f39b9185a8c0824dcc0",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T003043Z-24224.jsonl",
+   "lignes": 2,
+   "fin": "31ec1445bb43f05e3c21f1cdd02e84ce6d8239d438bb165707a24173ae8f0456",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T003050Z-26960.jsonl",
+   "lignes": 2,
+   "fin": "9542b533ba9c15c3770fdfb62d360fee6f4742cc29b016637c0e6272c5300e1b",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T003056Z-24252.jsonl",
+   "lignes": 2,
+   "fin": "c4c929c648090e02de855d78a14e196a2de2092bd17bbb5c96d41fe9d2b2a26d",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T010040Z-17364.jsonl",
+   "lignes": 4738,
+   "fin": "63c7e1e846bcbc296ffe1d62060373d27fa3aa0178ecb969aec1d457bbbad122",
+   "stop": false
+  },
+  {
+   "nom": "audit-20261124T011939Z-23740.jsonl",
+   "lignes": 2,
+   "fin": "4130792e39a3e7c9366e5c3bd9b83c2303fe710dc6a65416e5fd9faef95c62e1",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T011945Z-20808.jsonl",
+   "lignes": 2,
+   "fin": "6ec79a67d5a3cde4579bd4871aae75c646b4c5f27fc9c0f2c32402772f00a6bc",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T011950Z-31308.jsonl",
+   "lignes": 2,
+   "fin": "8f06d54f6fc3df498eb0bf544de68d2524b2a46a51a1f37a0ad44972d2a00acf",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T011957Z-24516.jsonl",
+   "lignes": 2,
+   "fin": "c6439be6e65a77028b61b1866f0dd04108a9cadcd67ea9a6830e36745278fe52",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012052Z-26260.jsonl",
+   "lignes": 2,
+   "fin": "ced6024489895fbea04e99bd675aceea4505e27b4254a1e782997d4c9d5e4ff5",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012056Z-32756.jsonl",
+   "lignes": 2,
+   "fin": "d49ce2418ba65458517be8d43f47ac5791d19a422999b8d5148e3320afb547ab",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012100Z-28080.jsonl",
+   "lignes": 2,
+   "fin": "065c5f3d444dfcbc549229e4a0bb2bb1636c4e4bae99338a267b35341e85a8cd",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012104Z-31496.jsonl",
+   "lignes": 2,
+   "fin": "1f97bcf5f1a1a9961bf3055891ec1df537b842586a7bba97c20389bf365eb7dd",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012131Z-25464.jsonl",
+   "lignes": 2,
+   "fin": "90fe31584eabc5d28172052fe5b06afb18966be56271e65676c0a7f1a19671df",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012136Z-34936.jsonl",
+   "lignes": 2,
+   "fin": "439d04618f97e9846861831ceb646bc36b60248b6f315319de4c5b5e83d54ec7",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012141Z-26436.jsonl",
+   "lignes": 2,
+   "fin": "e5a5abcac7e250e45c78c5b56be97830dbda20de33449e1d80d16b853fe67a1f",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012148Z-10444.jsonl",
+   "lignes": 14,
+   "fin": "6f2b1c893f44c32f696b50a56342096e0ef07ed3afe5a7fc1f4bd223233a1f0a",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012148Z-12156.jsonl",
+   "lignes": 16,
+   "fin": "e41dddecdb1c44bb29ed679e9fba6088522dd751596e6296b3d6709cb4370ce9",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012148Z-31648.jsonl",
+   "lignes": 12,
+   "fin": "862493d6765ed51423487ac3486c133254278ff523859ce3c24eec0862b972d2",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012208Z-5488.jsonl",
+   "lignes": 12,
+   "fin": "79dc307d8cc847cad7bba5e5537a84f704adf42e04468cfc6f70fef02432128c",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012212Z-35528.jsonl",
+   "lignes": 12,
+   "fin": "61539f4b60f649bdfd2b6fcadaeedee555dd0deec86062e1761ee938865bc7f0",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012214Z-9344.jsonl",
+   "lignes": 12,
+   "fin": "ce8dc4ab34bea9ff3e1e4fea2360143a499da96802c4e5f044e4ec8c1bcc6e57",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012227Z-27500.jsonl",
+   "lignes": 14,
+   "fin": "711397bfb546588093da9a32c42537ae062e2db9d9a110d9afa6bb3da5defd98",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012229Z-28452.jsonl",
+   "lignes": 10,
+   "fin": "f62b1377f1df4edb6dbee9f8ed14b25f6399f86b81358d845d3b4c8c73388b67",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012233Z-15924.jsonl",
+   "lignes": 14,
+   "fin": "de029b24e7da1a27d9d29740aa85d85f4b26d46f86eb60724ca994fa72a9ef39",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012246Z-28832.jsonl",
+   "lignes": 16,
+   "fin": "73e2ce03f076d89d1372554509a9e43ba0a1f37b0add515b0d762f2ba53f665e",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012250Z-25352.jsonl",
+   "lignes": 12,
+   "fin": "2bfcd1b22d05486a103397e83c99cfe4c76e7fb15ba49f760339d9193f1e45a8",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012252Z-5604.jsonl",
+   "lignes": 10,
+   "fin": "4f314fc3fcb5a2a48aea0e040bd1e634163e27399074e29fdcff580c064ac00a",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012308Z-19628.jsonl",
+   "lignes": 14,
+   "fin": "f2e9cea5ca5b6ba24070cb3f30263efeeed31a315ca244f9c878ea492c516ce1",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012309Z-35680.jsonl",
+   "lignes": 12,
+   "fin": "e8ad457759e748c8acabe889b6ce8ee6c5d98c277a97e9cb0920f286bbfe7393",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012309Z-9504.jsonl",
+   "lignes": 12,
+   "fin": "952fb2b05c458f87ed8513b713f6ab7fe1ca1de8b92c6edcdf889a87b8d31a09",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012327Z-30184.jsonl",
+   "lignes": 10,
+   "fin": "9cdc2296f2a770a21766b2ffe91f346e08e795a4a567c4022d39b9c6d9745df5",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012328Z-35832.jsonl",
+   "lignes": 16,
+   "fin": "22f13c5453e22b9dab22b5a8032b2526151af5dc036dcb09ed58b4aa0d90595f",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012332Z-23252.jsonl",
+   "lignes": 12,
+   "fin": "ddebb4eb8a9607f57c2649f3da26b99b4c7c44a219fa8e5c55c470d0a18443cb",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012343Z-5324.jsonl",
+   "lignes": 14,
+   "fin": "21d14e336be4afd79d7dc20300cfc0f099212573fe673b869f1de0a79221fdc8",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012347Z-34532.jsonl",
+   "lignes": 10,
+   "fin": "57a31ecfd9655d65ab505943f9df596e8f437210c126f65faa17941cad198eff",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012350Z-9704.jsonl",
+   "lignes": 8,
+   "fin": "94da81bac09545964592d6bf6a1a398fca1872bcf86592ebe8d1f17eb07de54c",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012401Z-34916.jsonl",
+   "lignes": 12,
+   "fin": "064d9ef7d5c1462e92f928a32213863975da7b0db6e90e2df2f87d1f16b92e44",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012403Z-22948.jsonl",
+   "lignes": 12,
+   "fin": "9bea733c57a874dc21d37d91bdce75457f56e24a970add1a86168faf16c77db6",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012407Z-13460.jsonl",
+   "lignes": 10,
+   "fin": "704726b5ca34f66709f5553d70cd00cf3866a462fc182a7d7f53bb9979847d29",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012419Z-9204.jsonl",
+   "lignes": 10,
+   "fin": "c30714f3f4e5052610101835f8b7d0d36b1d003c3dd552affa975378f0853a76",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012420Z-22428.jsonl",
+   "lignes": 10,
+   "fin": "00a08664e6305bdee160bc9c3d7649e389d9baaee0dd2c3955272349c3ef1c55",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012423Z-10664.jsonl",
+   "lignes": 10,
+   "fin": "ae17592a1047e6b64f0b4abfd1f98ae45322032098c5cb40220e963086d6a2fd",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012433Z-20008.jsonl",
+   "lignes": 18,
+   "fin": "6925b0371438dec47369306b7c0fdd3212d7904fded6e5c539c2aca6bd2827af",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012437Z-9008.jsonl",
+   "lignes": 10,
+   "fin": "a61c66c9a5630975ba45966cfc1eeffe68381ef99e82e5b4b0dc533f6ee98d96",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012439Z-20540.jsonl",
+   "lignes": 10,
+   "fin": "d9b75da9b8c9f6d1859ffaeaf1eda76b6ac3cf459e437dff0b7f505519312d76",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012458Z-19732.jsonl",
+   "lignes": 12,
+   "fin": "875608d4457153ba69860447316b94ab79830abbf7399a7531a66b5c6be02b9e",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012458Z-21160.jsonl",
+   "lignes": 10,
+   "fin": "1684995d0e7e4984a16d3b5fe0783a996894a3ee1ce4a30b4c5bbb430088b8a4",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012458Z-31076.jsonl",
+   "lignes": 14,
+   "fin": "9beb047a41ac8c9e57342e3a156f50bfa584e7f810b7a62199e656f192eb512f",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012510Z-18520.jsonl",
+   "lignes": 16,
+   "fin": "620c48d073dd0299cda6358de142fe613183c1250f5ffe95c9e3bc750c254823",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012512Z-26312.jsonl",
+   "lignes": 14,
+   "fin": "87c694e2cb2a101ad80bd4b7127ff88eb61f95012c4e3ef3517047ee2b269254",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012514Z-29132.jsonl",
+   "lignes": 16,
+   "fin": "5e479705ffec8cdd7f4b05bb9b027abba0139df31593980b2b1bf64535d04cc5",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012523Z-6328.jsonl",
+   "lignes": 14,
+   "fin": "82a6896cf5105a6d3dd860dc6704c4fd7e63db82b8487c1898896ed76f88a04b",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012527Z-32684.jsonl",
+   "lignes": 12,
+   "fin": "0f33d40d9d88a44d3109089acc921859abc200b0be4c1ebaaf735200d2944b87",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012528Z-27880.jsonl",
+   "lignes": 14,
+   "fin": "529faf6bf76ac71aba30b414d1d852819850807b09d2ed0378efc93546e715d8",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012536Z-24012.jsonl",
+   "lignes": 12,
+   "fin": "c74a031284e2c7e40136394d36224b6efc73e3a195bb43400a0ba3876aefd689",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012543Z-5880.jsonl",
+   "lignes": 14,
+   "fin": "1832b6a6ad5f527246f03d8a6e7524dd2a90cd81aa9b5c9103743380c9aa06cb",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012544Z-18520.jsonl",
+   "lignes": 10,
+   "fin": "ea9ecbe62e5efdb29892f98cb328e419bce81185d4a6e85f598674d75f554919",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012548Z-34052.jsonl",
+   "lignes": 10,
+   "fin": "570c7d7495b5e6dde852b6500481551939a609ed9b77899c8c304350560c273f",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012557Z-23896.jsonl",
+   "lignes": 12,
+   "fin": "781d9c8e78acb1dac8c76149121da2a1add80650fbfa85c5c1711077f7c4a73d",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012559Z-4920.jsonl",
+   "lignes": 10,
+   "fin": "c2208aec20e1a5e83eca5845fd312675d37fbc1a1910f778fb725b270f0c84d9",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012602Z-28320.jsonl",
+   "lignes": 16,
+   "fin": "0c06a9dc61ac5cb8a7ccee072b67a7a5bb8daf539a005fde6637e4f2d4d25a1e",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012611Z-23312.jsonl",
+   "lignes": 10,
+   "fin": "bab11ab5998bdee6f687ee80f12219bc32dfc3396c081cb4add3c535b5e2cdda",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012612Z-25816.jsonl",
+   "lignes": 14,
+   "fin": "64347a0ec857d2245b13f595758e2b33c28ce75d1d7e722456555230c31b3ed1",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012615Z-31896.jsonl",
+   "lignes": 12,
+   "fin": "2b2ea86c1e4015becc28ac7525cd7f6cb13696f5b57525cbf5eee9e66489b7df",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012623Z-4764.jsonl",
+   "lignes": 14,
+   "fin": "495b5e6faa132955a7a20efd0409115b00b8064887bcac718fdbcb812c0405b0",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012625Z-4104.jsonl",
+   "lignes": 10,
+   "fin": "cb56fbbb68a8ec4d7b8e091eae84bc4e607e33f56bd26bbca8908111be36ee76",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012628Z-27168.jsonl",
+   "lignes": 8,
+   "fin": "dc23a43a06cfd01a25695c52ce86514973f6aa099853ed1b3358508363d8f159",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012635Z-19356.jsonl",
+   "lignes": 10,
+   "fin": "9a4a0e09da74a1e11e5ce5a70ef4a7b34b335b9ec781b2b010e795642363fcfa",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012637Z-29764.jsonl",
+   "lignes": 12,
+   "fin": "c1a9038db5da29eeada883baf4fa56e5dfc04203eb893d0d24984e86bbe4b5c9",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012640Z-31568.jsonl",
+   "lignes": 14,
+   "fin": "702c9cc3b0652095a57b3bb5e162f2007cf1d7de00d7d8cefbc99f7500720fc1",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012646Z-31580.jsonl",
+   "lignes": 10,
+   "fin": "f290d01801c4e7c8db99780531a8689682cb2a243df9cc8a5b96d6798b0ed55d",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012649Z-14500.jsonl",
+   "lignes": 12,
+   "fin": "6d70e35a4e31428696300b47f3fd63d7cfff7a1bfd267c24b6e85c442ad76e0f",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012653Z-33316.jsonl",
+   "lignes": 16,
+   "fin": "c62ff031807e7198f997e9dea7245c474574bba7ef549c75515a7e265b306138",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012658Z-24152.jsonl",
+   "lignes": 14,
+   "fin": "f2fb761236838a998e215cb5200148fb85f6632aab18953d3e4d44573eb7c7c8",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012703Z-32644.jsonl",
+   "lignes": 10,
+   "fin": "72e632c13efafdfc689d0589daf1286f7cf2a4dfd2de96acc4a0fab2ed6fa0ae",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012716Z-12276.jsonl",
+   "lignes": 14,
+   "fin": "4148d6dcd51d6fbd6192b90c1777f767dbcdd7cbbbbbe4a6f38eb8c35a7f6ad7",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012716Z-33332.jsonl",
+   "lignes": 18,
+   "fin": "876ddda1d715e1f160392e51bfb2966b66a4248073697fdafea32ecbe931511d",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012716Z-34604.jsonl",
+   "lignes": 16,
+   "fin": "84b12967c9f381017ffb685c41a499e360aeba56de0eb193569fd81fa0a3bbe7",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012736Z-10664.jsonl",
+   "lignes": 16,
+   "fin": "e24292df911e128b014c0a2e6a42e3451fd969b38f13ec5591f68ddf3111739f",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012740Z-11732.jsonl",
+   "lignes": 18,
+   "fin": "314f16f85cb4a79d7a0c2b790e66ec6188013e917b99808b0c7e2d15f11c60de",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012742Z-29204.jsonl",
+   "lignes": 10,
+   "fin": "5d7948b04e9e2e421aa5b35d87340e0d814be3fe68e23b6e2ec3a8ad780743e3",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012755Z-27088.jsonl",
+   "lignes": 12,
+   "fin": "85fd1565535e73fe76b4aac5420b9fe5e7fa4aac30a25946403ea83511ebd49b",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012757Z-30564.jsonl",
+   "lignes": 10,
+   "fin": "15eef7acfe200514f5b6aad8663cf2dd3b2e382afb8b9a30ae3563b5ce3cd63e",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012803Z-19152.jsonl",
+   "lignes": 14,
+   "fin": "960b1fb69844dd68641d0f1ccab9c5894c7224129ed897ec97a5f2e2eb64634b",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012815Z-1996.jsonl",
+   "lignes": 6,
+   "fin": "0cdeff0ece861012af940d05191ef20073f31c2f5bc580ba66e1c62506fd84f0",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012816Z-31284.jsonl",
+   "lignes": 12,
+   "fin": "102b039ea572a6ade4a766b8c05b93157cb8cbe8c0ff41fa518392ad0cae888e",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012828Z-31380.jsonl",
+   "lignes": 12,
+   "fin": "86cf57c8f9ca9362b5ca7a599f0a6eb50e5b38d3719e006a84e2fa35fd4c7588",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012831Z-34864.jsonl",
+   "lignes": 8,
+   "fin": "a8633ac1bfe75e5db668a4160b1e20c3c3e492d5aa12496f9d7d0d84f039f9e7",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012834Z-35008.jsonl",
+   "lignes": 14,
+   "fin": "ef31e07925a7777f2f9a9be823ce92875808cac4efa838a4765558f3579a6ffd",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012847Z-6220.jsonl",
+   "lignes": 14,
+   "fin": "230c32ae061cb7e7e2bd0c9044b7d114421f5e6a9121c34cc9040623f73f921e",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012849Z-27452.jsonl",
+   "lignes": 12,
+   "fin": "5cdcb36bd0576807da64473398e7dc804b886a0e6a13d70c591db0f848438584",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012855Z-35044.jsonl",
+   "lignes": 12,
+   "fin": "9e40686ace5ff4e2dabbec626f7d5da6b6d56adeb5344add191a63303cce6559",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012906Z-6744.jsonl",
+   "lignes": 10,
+   "fin": "2ed13c63fdd7644ace87d804281da25520d2172e2ee6f51dbc73ac21a6944dfa",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012908Z-31876.jsonl",
+   "lignes": 12,
+   "fin": "941fe4f343f6694625ff36b7dae640d6ec3f8a7250b42f1474c3d45221bec789",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012912Z-33264.jsonl",
+   "lignes": 12,
+   "fin": "eb0621e9de4249da6a5df19b1468d92ca98a4326ba0b21d32764b3d741f19827",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012921Z-35092.jsonl",
+   "lignes": 24,
+   "fin": "e1c4deb86877a6bdaa6cd6a03581e6252c9d677bb0cd942224901d603a0f4799",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012921Z-8856.jsonl",
+   "lignes": 18,
+   "fin": "24256ced0b7f883ffcdc160164fe6cd8c8d6b9db9586aa4482663348447198a9",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012931Z-29016.jsonl",
+   "lignes": 10,
+   "fin": "263671ae22240ddac96d2b28426b4661f00b90f59db76dd0c58c9b2bd00a7878",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T012949Z-27828.jsonl",
+   "lignes": 14,
+   "fin": "dbda5ea530c3ef5f6291b6482b71f2753d8d29e7c0179919cc0ddabaf073707f",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013014Z-11836.jsonl",
+   "lignes": 14,
+   "fin": "a45edd1e62e09691630b17fca80261bf4c7f6f6b1515077e26268364b3ea2d5c",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013041Z-28640.jsonl",
+   "lignes": 14,
+   "fin": "30c33296c7f19d6255b52f4fe3ffddd8da2061b3b18323f0aa8462e9ee0ac6fa",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013108Z-30736.jsonl",
+   "lignes": 16,
+   "fin": "091419679497daf10228d9cdca9f6c05fc595c995936f023d74248d1dac3c626",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013139Z-28160.jsonl",
+   "lignes": 10,
+   "fin": "bb1da3ee9dcda4499ee2dd73510acb60a1757a5e29d1eb732a14855d551d3aca",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013139Z-30284.jsonl",
+   "lignes": 16,
+   "fin": "a8240c3ae5f4f8927e9a120913f3505e0e865a132b4084f431e47eaeea63214d",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013139Z-30624.jsonl",
+   "lignes": 12,
+   "fin": "278ec05bda553bb12b6c6cbf5fb7dbbd4d70ec485fdf7514ce4b012ce4d760c9",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013154Z-31228.jsonl",
+   "lignes": 16,
+   "fin": "d05e077c8681646cbaec810d8ff0df68327450d444134455787da2b9a4b47c30",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013155Z-34520.jsonl",
+   "lignes": 10,
+   "fin": "2cfa7b441f2c1c81b4e090f8c9cd8f19ae717d33376e2917ac9f4b5613da6513",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013156Z-17636.jsonl",
+   "lignes": 8,
+   "fin": "7ef190eccda1e7acbfab3e7e9c8fb901ee5dd72b8879bf513dfaa96dd8f2338d",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013208Z-20596.jsonl",
+   "lignes": 12,
+   "fin": "3e1445ff31570a22ad6ce520cd7d060c6991c7874a50aea9cabbd2ed52879d04",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013208Z-28068.jsonl",
+   "lignes": 10,
+   "fin": "1dde87e9a81f5c3099f7b82bc303a6b76b591a0bf47609edb8f81e576ebf4cb9",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013213Z-4764.jsonl",
+   "lignes": 12,
+   "fin": "dcac8eff132b163c972a7d3f12888e7bb32c2d4a3b842244371dab46abbcd80c",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013222Z-18064.jsonl",
+   "lignes": 10,
+   "fin": "9b133d8b262bf4fe93bb15d927127f6476953692006d46235533d4273e12bf13",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013223Z-32828.jsonl",
+   "lignes": 14,
+   "fin": "afc1d694653c572a66c043c42fca6e708f98585a995bed30708b43c825e5d772",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013229Z-14252.jsonl",
+   "lignes": 12,
+   "fin": "52a5cff168a2d5a1e86d012aff48dcccceaed87d2de56e79aea351644570d2c6",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013235Z-30700.jsonl",
+   "lignes": 10,
+   "fin": "60dfbd7827c7c37f617d8835565e224c16354808d65a073d9660750b5c0d1cba",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013236Z-17200.jsonl",
+   "lignes": 12,
+   "fin": "7184a43ccbea308333a39558f036cd4cc14f72c67d14674f6f972f4cb59dc218",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013245Z-19484.jsonl",
+   "lignes": 10,
+   "fin": "6f180d2dbb27566433f86cefa05b6df6732211ba8286a9e37195d5b7aa186f9d",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013246Z-35316.jsonl",
+   "lignes": 10,
+   "fin": "f0a3040fe8e1e8c611b3da17f39dc8cedea002bf162b2989459eecdd1e8d4497",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013250Z-10092.jsonl",
+   "lignes": 10,
+   "fin": "74444d843d1dbe53fc8a89aca0cef6203d696e8b9407b137a1f1a615fd887f50",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013259Z-16536.jsonl",
+   "lignes": 12,
+   "fin": "55db7047c4f18f3b4b60ac74a9f39824e606e4af0a9c7a7f35f8a080837a1e95",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013300Z-35120.jsonl",
+   "lignes": 8,
+   "fin": "74a38996f5d7951a462897258e5a14848a9230d047a608b4d288e822db7ff8cc",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013304Z-33980.jsonl",
+   "lignes": 14,
+   "fin": "6299e3bafc74e0f6679c5b144d66194f475c1003d0bf99c95b825f2b6a9f1f98",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013309Z-14496.jsonl",
+   "lignes": 20,
+   "fin": "1b99a2fbedddd360cac24d81cefb61726a7c92cb0a72030f5189ffa18b5f61a2",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013311Z-22788.jsonl",
+   "lignes": 20,
+   "fin": "d4374e07f2954c71ced90ab863545e4b167beb1413e8d7d0188ce78b55dc6a57",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013319Z-32540.jsonl",
+   "lignes": 16,
+   "fin": "5ed8642c10018d092aa1b3f196d3e14b8cb07dd9171ceff4be51ec658f6c751e",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013336Z-27820.jsonl",
+   "lignes": 10,
+   "fin": "40852979639dc67bb691d9c0fdd46aabca19ce013ab22b0dfd80ca6109c6feab",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013336Z-34552.jsonl",
+   "lignes": 10,
+   "fin": "2f6a05bf1112357ba095479822f0d4e403b2284a75e92565b2479f0f73f33d8b",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013351Z-23484.jsonl",
+   "lignes": 6,
+   "fin": "ad9d421bffe18538b3014fc59893fd6833b7d47a01e2379b9b561c0d9b77d3f2",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013351Z-30692.jsonl",
+   "lignes": 8,
+   "fin": "480a43a37619e3c8186360c24222207e9d4a6208efc8bf52512fbe0a47b38329",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013351Z-31252.jsonl",
+   "lignes": 6,
+   "fin": "9e947df4d8f411a0a66524256b3275bc58ea763d6f0cc8112bc8c9f476b197e0",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013502Z-13196.jsonl",
+   "lignes": 8,
+   "fin": "4305d700dc59640f99c466d7478bd195f0317e3741be0304c8a04701ea6800a8",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013502Z-26112.jsonl",
+   "lignes": 8,
+   "fin": "3df3510399e4dd57178d76f0b93926336e5ab83e8de92290d87bb05d1abcc97c",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013503Z-35680.jsonl",
+   "lignes": 8,
+   "fin": "9a8c5dadcecd026ab368fe2f43f6b117ea0d1d6b6dcd6e55e7aebc03bc10dc4e",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013515Z-32300.jsonl",
+   "lignes": 8,
+   "fin": "cb37b7df7a2e0052e24de5cea0e6706c1c77e12707a672f97f8c0c42f99a2263",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013516Z-25396.jsonl",
+   "lignes": 10,
+   "fin": "7d47e1f49feaa89ed8505138b0d1e36a767cae68c3c1911a73a60c977f4ebd02",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013517Z-24320.jsonl",
+   "lignes": 14,
+   "fin": "c4ad623f21fe40394c089d39a6bc720bbac3979366e705f001c8daf4aa9fcb94",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013529Z-7340.jsonl",
+   "lignes": 10,
+   "fin": "2db074e7026d7b8668f7f37030a8771a4b7c4d27ccc7b8c83c8e9309b4ca09a2",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013532Z-19740.jsonl",
+   "lignes": 10,
+   "fin": "4a302408c8750d73db3f15530288c3dd094a51be11e70f674dc3cff1ae6d2a9d",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013535Z-8940.jsonl",
+   "lignes": 10,
+   "fin": "728f29fd5d6f79d22c3f47fec222c8d4e9dc4465c2f8afd8a147835032b595cb",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013545Z-31164.jsonl",
+   "lignes": 8,
+   "fin": "e2816f311ef570104b60167f809b938af5b42549e081fba3fde4edaec3d785e9",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013548Z-25084.jsonl",
+   "lignes": 12,
+   "fin": "865ab51209b1708bfe4a7ce0912157eb3bc8727a2c526f6a7cfa1a2f9050cb10",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013551Z-9140.jsonl",
+   "lignes": 8,
+   "fin": "070080cfd58c991f4fe970593810228d895a930d185206e652af6dc82028fc43",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013559Z-16480.jsonl",
+   "lignes": 6,
+   "fin": "99d11a1fb08d555b23e500b9a42a5d39ea80ee064974009e55e581266a4f9b7e",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013604Z-15036.jsonl",
+   "lignes": 8,
+   "fin": "2d09bb163009cf602be91a54f5b3414dd2b36e5c2e6074377ca72428875f2483",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013605Z-24004.jsonl",
+   "lignes": 8,
+   "fin": "06e58a72be728a51b29973a1b9af8c67550904e175ae5e3536f9f36d74da075f",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013609Z-17016.jsonl",
+   "lignes": 6,
+   "fin": "d5985df63a97f52849a485562eb0536f7325a6d943c6d4bfae2a9b7fd258c1a6",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013618Z-18388.jsonl",
+   "lignes": 10,
+   "fin": "9901a83fd7bda4c5e28bf245264bdeadf23432d1b78c81804c734e4012d390f6",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013621Z-29832.jsonl",
+   "lignes": 16,
+   "fin": "25f831086a889994545bee9c6988038c36ebdf131ba7af227f16a9bb61af9d11",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013622Z-25468.jsonl",
+   "lignes": 22,
+   "fin": "9561679261c58affce41f739dead70b36e238b05c8b748a823c66be65bcb045d",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013647Z-27640.jsonl",
+   "lignes": 6,
+   "fin": "6a84a685aec824e5173d3537fc2141982a5e181c7fa8677cdc101e96b76f68a3",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013647Z-30068.jsonl",
+   "lignes": 6,
+   "fin": "8a114c19ad7633ba35f23284b38a9548d7a9ab1d296670d96047af69e7b7833f",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013647Z-9348.jsonl",
+   "lignes": 8,
+   "fin": "9fbb8997536c97899bc3a928fff075e92c5f68026c71e294c9600934a55815a0",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013656Z-26524.jsonl",
+   "lignes": 6,
+   "fin": "04feb4f2d3860dd3cbc34f32107525c818cb4f7146e141ea7a39a7ebb7da2286",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013657Z-16876.jsonl",
+   "lignes": 6,
+   "fin": "b5ecbb8576afaa65c8578798681dc684234a9344a4074c0cc15751e885e4ae38",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013658Z-31188.jsonl",
+   "lignes": 6,
+   "fin": "800422fc7a8bbd2faf6547121ccbe6cc17afaf9a1e1b621514bfc0c5f2527a1f",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013706Z-13772.jsonl",
+   "lignes": 6,
+   "fin": "f19815d281a3d58ea35e481f5c632e48ead5ab46b0f860aab5f955adea12c2c3",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013708Z-23392.jsonl",
+   "lignes": 8,
+   "fin": "d8c1f7ef71f944df1e2e31d60cf0fd13420c2cba93c3a4fcbc7dd3e3a51be97f",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013708Z-3688.jsonl",
+   "lignes": 8,
+   "fin": "40e66339ca5b28c92d3ef899f8b89d7abcdee5bb41b8e7080957cc70d6b45fea",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013718Z-2476.jsonl",
+   "lignes": 8,
+   "fin": "a0595b8513204705b8ca898065f39835d310dd54744eb8a6ab63a1daedde003f",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013720Z-1172.jsonl",
+   "lignes": 10,
+   "fin": "60d759380477650c674cf37bbaa752e0b740730636206e8a2351e76757ce8053",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013720Z-34996.jsonl",
+   "lignes": 10,
+   "fin": "daca7048d0031eeddc3eb80c4a90e3d24774aee472fbbc90d600873b7fd42045",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013729Z-3464.jsonl",
+   "lignes": 8,
+   "fin": "57b63b2fa67a75bd514ea22d99c3ebc9f5deec52159a148e3010123697917fc3",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013732Z-27544.jsonl",
+   "lignes": 8,
+   "fin": "3f66aafebcaf68ec898586ec01383d9b5415d06a0bde2e78aeac0347feaa2950",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013734Z-28520.jsonl",
+   "lignes": 10,
+   "fin": "8529d3cb5a10ce500801efdbf53692ec14ab16a0ca2a812e4a27494dd9fcd3dc",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013741Z-2220.jsonl",
+   "lignes": 6,
+   "fin": "c64b10f2ce577e402ad8188339dbc1d877d9edee31f0554e1bb3cbea3c815a5a",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013744Z-16308.jsonl",
+   "lignes": 6,
+   "fin": "6914f6f578e1135fc6f7eee662798ae4185e111e37bd92c970c9f6ccc25c0463",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013745Z-15688.jsonl",
+   "lignes": 8,
+   "fin": "9092d3598a249b9a8327e2e9d4398ad5ac9f2c69415daa022db26d6db1a7539e",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013751Z-35100.jsonl",
+   "lignes": 8,
+   "fin": "805c9e6a628694945b0c8d624178439cea52530ef1bce57134482ee06695b69f",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013753Z-28320.jsonl",
+   "lignes": 8,
+   "fin": "1c3775b4147d2ff9ffacd594f700f801509c7f06b56fc5fa3c9baed33f7414ad",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013757Z-29028.jsonl",
+   "lignes": 16,
+   "fin": "599bad3f4d96ffbd962ab135a64d29a5bf7331c3f2482c0abd493ee35382bb37",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013802Z-33920.jsonl",
+   "lignes": 6,
+   "fin": "e09a0bc417d17fb10d4ce3b1716e0a392291ee865c90f6e428000d538e23ee0b",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013815Z-11372.jsonl",
+   "lignes": 2,
+   "fin": "33a5c52c3392d81141672ccf186b69340059f36e63d6beb61a336131f0be17aa",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013819Z-13892.jsonl",
+   "lignes": 2,
+   "fin": "346127646801449c860fee7c6f19dcf519b1f98370ff4e86c1ef89e5d0b7900f",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013823Z-32924.jsonl",
+   "lignes": 2,
+   "fin": "6430f74fa0f1b0e639c27fbce6b0415c81ed8508072af5952f438e3eb5927b2d",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013911Z-35696.jsonl",
+   "lignes": 2,
+   "fin": "34e3ef163a39d42f3015ea21c74736854aa3f15c798b80758aa1770554ba6bce",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013916Z-35612.jsonl",
+   "lignes": 2,
+   "fin": "aa552175cb4e5d141067a656103cf0adac86a8b44c9d7e17a22afb2855ae377b",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013920Z-16888.jsonl",
+   "lignes": 2,
+   "fin": "11b3e786670c5db24ed949b71a3803cf4edf2aebb2c8bfb162d80640cea89310",
+   "stop": true
+  },
+  {
+   "nom": "audit-20261124T013925Z-27036.jsonl",
+   "lignes": 2,
+   "fin": "ebc921f87e93a83f5e4f5958b2301a7c06ceea69ef6bf7d17ba9bac05649a22a",
+   "stop": true
+  }
+ ],
+ "jours": [
+  {
+   "jour": "20261005",
+   "clos": 506,
+   "empreinte": "8607bf44607cc48ef90d2459b90f24bc69dcd278d02043f6f5bdb9381f44d104",
+   "ouverts": [
+    {
+     "nom": "audit-20261005T131714Z-20256.jsonl",
+     "lignes": 15,
+     "fin": "055baded65415fc1ed472a6e86052919e825cce2a322645daf97c385a3f3e1ab",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261005T132829Z-28376.jsonl",
+     "lignes": 1,
+     "fin": "41ade033bb7fd21ab604fbf99704103a26482a384bb912956e21679669752bd2",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261005T133252Z-35396.jsonl",
+     "lignes": 1,
+     "fin": "78ac7b4320cdeae96fe623faad26024b717d636d3390663e134acb5973ba609d",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261005T133827Z-16500.jsonl",
+     "lignes": 1,
+     "fin": "9ed686cf7384dd6bacb447adca865e2f2136e4adc04852641c99109e2546667d",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261005T140916Z-27952.jsonl",
+     "lignes": 1,
+     "fin": "ce342bd49c52a33666f0f9716d6b2585d46fbffb0df884164899af24941b8264",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261005T141510Z-1096.jsonl",
+     "lignes": 5,
+     "fin": "e5e228135173076a00346c778a3aff7e721032d9dc3dde2dfed698439850e28b",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261005T145804Z-1144.jsonl",
+     "lignes": 3,
+     "fin": "75c8df0147573db80c41e441126b1267feb3dab362e65895446757f5dbd058e0",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261005T152333Z-14112.jsonl",
+     "lignes": 5,
+     "fin": "3936a3235f109a33b7d4b2bcc6ab3e9545408a2876d1a7e6ec3fd6477d074fb8",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261005T152931Z-21300.jsonl",
+     "lignes": 5,
+     "fin": "339dd5d8f73f77d055d15f84a437070aa605f7ae4c7f4f6e7bf4bab5e6f14eb5",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261005T153102Z-37664.jsonl",
+     "lignes": 7,
+     "fin": "8b17ce4fd167609c8d12153e0a7aadc422463c3ad2674fb026dbca7aa0cc0d9a",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261005T153110Z-27688.jsonl",
+     "lignes": 1,
+     "fin": "fde72ca7bfbfe49bd363afcd425c5d1716cd709e898af77fa57a65248ee936db",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261005T162626Z-29672.jsonl",
+     "lignes": 3,
+     "fin": "e126cb6d3e0a25ca930061c8c3933b4b3f004dd057a1923b061c89ce147a1a63",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261005T162628Z-13244.jsonl",
+     "lignes": 1,
+     "fin": "a1ce22aa1ceb7fb4b8477982a02756769da9654ef1bab5d307358aad308de7d1",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261005T185452Z-35136.jsonl",
+     "lignes": 7,
+     "fin": "776dda65298b36e5d8f8acea989535ed8618beccb5a91ecaa7b33ca12b9b0169",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261005T191211Z-11588.jsonl",
+     "lignes": 1,
+     "fin": "628a86e913a494252bd07ed37f53f52a5273ca5b5fe3d38af2aee37dfd0fc38b",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261005T203246Z-43256.jsonl",
+     "lignes": 1,
+     "fin": "c8e9df5ab743f59e3eec59788792b698cbd45e96eaa2247e7f31fc0e36f0fe7d",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261005T204921Z-34108.jsonl",
+     "lignes": 1,
+     "fin": "35e4ea7147729ebb4df3b1c6d73c74313808e5df028524e9a408c7011c465bda",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261005T205712Z-32684.jsonl",
+     "lignes": 7,
+     "fin": "6fc1a987a43e5f13e806fcf5f6cbf183251651f7ccb27573ac94311331a3c660",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261005T210011Z-14248.jsonl",
+     "lignes": 7,
+     "fin": "b1764302c3db912ee147b67762b87a2f516d7f47d5117fcc67df4f5192a6ae0b",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261005T211225Z-43268.jsonl",
+     "lignes": 1,
+     "fin": "29f9a3b36752a698c26b4024343b280c283023c2756a33c81ec0fd812d153468",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261005T211233Z-14812.jsonl",
+     "lignes": 1,
+     "fin": "6395e65e6439a36918b224b03841e5a4411fee8457c4c43606ca3275dcfc9f89",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261005T215824Z-25460.jsonl",
+     "lignes": 1,
+     "fin": "b803a4944ffd459bb9f4b34b9b02749e910cf86c0b15aced05e2c4c39bdd9122",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261005T221919Z-32108.jsonl",
+     "lignes": 1,
+     "fin": "3f369efbc3b7ec95c018093a5ad1c8e3b6a0fcbce4fd59c1425661cb6f69b6ab",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261005T235408Z-36340.jsonl",
+     "lignes": 11,
+     "fin": "6ca871dde47bb39c6b6ff342dc7a9d21e85dd111aebba614dc80b61a0a59467e",
+     "stop": false
+    }
+   ]
+  },
+  {
+   "jour": "20261006",
+   "clos": 967,
+   "empreinte": "8ed066449f10d6976921ecce49c03022bf65c0b40824b70059c76a97c63f25e6",
+   "ouverts": [
+    {
+     "nom": "audit-20261006T000407Z-11780.jsonl",
+     "lignes": 23,
+     "fin": "5844168ac0c485644d499ff384ec58dd927c0e166b390acda7e016f9601d739d",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261006T004948Z-25320.jsonl",
+     "lignes": 7,
+     "fin": "b3a7e5192d7743fb2a1dbb1ce0ae9aff9fcafec3e8b7f9a489bc5077af6c6607",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261006T005609Z-44372.jsonl",
+     "lignes": 7,
+     "fin": "96dfbb54dc2e294dedbb8f20a591da4271e27697c208cb10cbfa8a91b78dfa83",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261006T012404Z-22036.jsonl",
+     "lignes": 1,
+     "fin": "665fac924b4669756aa9c1a7b4b98b4ab27a77f193029fb5578ba4cb84e65393",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261006T012709Z-44200.jsonl",
+     "lignes": 13,
+     "fin": "e470366342467cc6e00f6c349e11bbe548a55a19f8018df718e37d3fe2f018b3",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261006T015439Z-30220.jsonl",
+     "lignes": 1,
+     "fin": "8162ded8137462a077f5eaa6ee1b98ab75cf905d2b309416c41d119ea5877d5d",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261006T020656Z-37904.jsonl",
+     "lignes": 17,
+     "fin": "a1d61b7248ff30d94edc324b271626ac976aa6a668ca117e63bcb1bdafd41ea6",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261006T063655Z-32636.jsonl",
+     "lignes": 9,
+     "fin": "6ca781a16970dc3cacd2aca91ae8575294611035f39c6551dd139e0f9f3b24f7",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261006T074144Z-27000.jsonl",
+     "lignes": 7,
+     "fin": "f653448777078109710fea31b6539ab927cd5b580fe2a57e523168b7748ed02e",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261006T081135Z-10952.jsonl",
+     "lignes": 1,
+     "fin": "755cf1440d980cd343cfe6a5ac34ff53a93835f0dbdee3611009950940633162",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261006T085237Z-10696.jsonl",
+     "lignes": 33,
+     "fin": "ad71b5f2c532aee7f4fe285a5a755ed04980c66b16506595c8c0534137861ea5",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261006T211603Z-7984.jsonl",
+     "lignes": 1,
+     "fin": "db2d3363be6235bcd59fb732e242a4ec24330c7852ba5e9c02abea4adf76fe92",
+     "stop": false
+    }
+   ]
+  },
+  {
+   "jour": "20261007",
+   "clos": 1320,
+   "empreinte": "a90ecb40c55ca6076ab54ac383c654e600da10b6c19f792635fda33a0019e501",
+   "ouverts": [
+    {
+     "nom": "audit-20261007T090022Z-21728.jsonl",
+     "lignes": 5,
+     "fin": "ca35336f871d0fa472d58db6fff265acf7e27e0722f96b31b5a979a84ed04301",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261007T094151Z-45764.jsonl",
+     "lignes": 33,
+     "fin": "09040065a0c1f11965146b9ddff556d145b458cd03a4b72b3e4f4e72eaffc9fa",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261007T095944Z-26096.jsonl",
+     "lignes": 43,
+     "fin": "8f839fb4f93c80589018b69fa61d79e65c417d56c9d81f1a041f054453343c8e",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261007T115339Z-15300.jsonl",
+     "lignes": 1,
+     "fin": "80d37a48a7a1244428f380ea326cb60acc383dd102e41766a9a07715190590e3",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261007T115341Z-32512.jsonl",
+     "lignes": 1,
+     "fin": "8cd2add7717e2d4298a02765f8597b1fe63b5b4f9a3f919f151b7191d60844fb",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261007T115342Z-11512.jsonl",
+     "lignes": 1,
+     "fin": "a1d579fd9350a664fb70086eb6b9feb59d0f4efa83aa9138957b625558a73f66",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261007T122026Z-4732.jsonl",
+     "lignes": 9,
+     "fin": "9c07c26a3e66f75d2749ec44d0e466f171ea6391b1b064be9cea4531117a4b84",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261007T133527Z-9516.jsonl",
+     "lignes": 7,
+     "fin": "0e0dd8b1c25222ee9f8ca2695ab70c69855974939daf47d82cf22beaded7a77e",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261007T134002Z-2928.jsonl",
+     "lignes": 41,
+     "fin": "8ca0550ec2245a1a3946246f95123e23d3c7d0b4e67e5f1b8e068027bf795158",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261007T140822Z-7160.jsonl",
+     "lignes": 143,
+     "fin": "37641d4ac715b67eb818a12c9d17cf453b2d430d2b9811bd12e40e8da2f2bde7",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261007T195208Z-21868.jsonl",
+     "lignes": 9,
+     "fin": "01b6ac0b039bf33f1563697f3c574ed725b788e960f62fb6c9e0dbb191b99d30",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261007T195307Z-24508.jsonl",
+     "lignes": 7,
+     "fin": "62bd4d9ff05e1795064f2b0cb2512d4675843ce3c3de7bd2047aa51b624c6070",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261007T204920Z-33248.jsonl",
+     "lignes": 7,
+     "fin": "2c127f3796de1e4e8d5f0097940594eb2673d44bb4c4325e071963cd02812d19",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261007T205030Z-44088.jsonl",
+     "lignes": 7,
+     "fin": "1944133eac994b33d12467b0642bd3ab52b5f15c6d33d502227c47deb857e356",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261007T210430Z-13048.jsonl",
+     "lignes": 5,
+     "fin": "debcd2010b9061c75bbe7b4b8a8276be655e72f4243b212d32715677dcd14f20",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261007T210523Z-9852.jsonl",
+     "lignes": 7,
+     "fin": "e62b3a1fe9003cd7554d29e86e6225e1c72072ce0540a2439ad932945a715d13",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261007T214352Z-2552.jsonl",
+     "lignes": 7,
+     "fin": "a398324b4e66e192b23224fef36ef3b9a79f0b1a6d573a2311264d13c847d812",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261007T225436Z-19892.jsonl",
+     "lignes": 5,
+     "fin": "0b3f90552f6014b8cb02534a987cf897f1c52310efa379866e9d285a3d5d60df",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261007T230519Z-22144.jsonl",
+     "lignes": 5,
+     "fin": "1f3b5ab056f525295dd00a81c123cbf9d9e1404c31c83dcb25684397b1628c1d",
+     "stop": false
+    }
+   ]
+  },
+  {
+   "jour": "20261008",
+   "clos": 1674,
+   "empreinte": "c45ed836df1119ee7f309c2767f5dd4b7483f0cffa47b97c66d1865894c5a842",
+   "ouverts": [
+    {
+     "nom": "audit-20261008T003752Z-38936.jsonl",
+     "lignes": 5,
+     "fin": "7d4f855649f92d25d0aa3033fa254613d5c207bd5d4ece1f625fc40de33008d8",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261008T011932Z-36276.jsonl",
+     "lignes": 9,
+     "fin": "da261c7265e769d2ec7948449dd4cabd005c3f9ae48ba6ff4f750cd2f8b979df",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261008T012609Z-20376.jsonl",
+     "lignes": 26,
+     "fin": "19a30430a47ffeb9805a3f5be25ac20637bf418c890e069c7a7ec5b4444e3011",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261008T075634Z-32796.jsonl",
+     "lignes": 124,
+     "fin": "af9a779877873153b3a82459c94e0ab56ee5cbdbf795fc3a72f4db9691679b84",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261008T130223Z-37492.jsonl",
+     "lignes": 11,
+     "fin": "b19b806336a6d2717fa081603e4746a8811ee54c55b8d4139afd3c3153dabdaa",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261008T154508Z-3168.jsonl",
+     "lignes": 13,
+     "fin": "8efeac35e32b8070856b5151ae46c0223899e27de63f3161aa00d4c0eb72c750",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261008T154612Z-31868.jsonl",
+     "lignes": 101,
+     "fin": "90255615b8ae139b04d84da83be53afaf7a303fbd1584182171f754026544a4c",
+     "stop": false
+    }
+   ]
+  },
+  {
+   "jour": "20261009",
+   "clos": 271,
+   "empreinte": "b731bf4151bd077c514cdb1267ee378d066b3e085108b1c05daa16d4ba9f2398",
+   "ouverts": [
+    {
+     "nom": "audit-20261009T080208Z-37532.jsonl",
+     "lignes": 357,
+     "fin": "87548f30087cb8ac085cc94a111c833303498d5f73fdc99bbd9c315f79d6cf6b",
+     "stop": false
+    }
+   ]
+  },
+  {
+   "jour": "20261010",
+   "clos": 37,
+   "empreinte": "9835e4bf10fe09da734d82b7240c775d4d9f2ace56c1de131987466b19bf3349",
+   "ouverts": [
+    {
+     "nom": "audit-20261010T014652Z-26768.jsonl",
+     "lignes": 5,
+     "fin": "e1821cfd24ccdb3340ebaffee1b07ef5a88e0f64cb0130d63b52dcc86fcdef95",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261010T015210Z-20276.jsonl",
+     "lignes": 51,
+     "fin": "28fe80a29f1f54b7d7623a018d88f597016854d4aa53a197d73a253d0632f71d",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261010T023923Z-40332.jsonl",
+     "lignes": 49,
+     "fin": "592beb34b43194f47a511860b959985e7bf9121ec6eb5236dec779126229a764",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261010T030109Z-3492.jsonl",
+     "lignes": 9,
+     "fin": "c200446d5e798e8577635dadadd6fb4e23b28be190838b8cc1c6557f2223b43f",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261010T112314Z-15352.jsonl",
+     "lignes": 119,
+     "fin": "ce792c5e5d954a1348e98eea1dc362729e82a3a413e4c15aec4642f7fb622e2e",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261010T210230Z-25860.jsonl",
+     "lignes": 59,
+     "fin": "91073104c2c5473a8742bacaadb58936227d1a1e3a39b924f6626bf8c6e7bfac",
+     "stop": false
+    }
+   ]
+  },
+  {
+   "jour": "20261011",
+   "clos": 261,
+   "empreinte": "7ac928e187a262da224f9eb02b92ec867badbdc53d8f7cc0048a4a08a1fa3711",
+   "ouverts": [
+    {
+     "nom": "audit-20261011T075216Z-1792.jsonl",
+     "lignes": 213,
+     "fin": "66f432e2a60c62ca3fbddc50b002555431632410cfab7a8f125d9ead0f3a0ca6",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261011T123659Z-27800.jsonl",
+     "lignes": 5,
+     "fin": "3c2d3508923c674341ead3607dee342988991dd6051ede6e530b621b39878ed5",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261011T165655Z-25692.jsonl",
+     "lignes": 35,
+     "fin": "3615ac3d13290209541c141e9319093a532acc125465e7745fc9692876f24f6a",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261011T172339Z-1792.jsonl",
+     "lignes": 5,
+     "fin": "a4d2ee9a13e0635ff993f0754b5b10365c07097e9496cbca10656fe63ba61533",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261011T191635Z-29628.jsonl",
+     "lignes": 65,
+     "fin": "918dd3a0f2250656515020f8e70bc009f8f85a63f9d90a4bf6c6ce22a9d2e0d4",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261011T203506Z-10904.jsonl",
+     "lignes": 399,
+     "fin": "c9bec41ab065dbcd644ba99321af42071ec7011476ee6a650ae566d54bf6bc68",
+     "stop": false
+    }
+   ]
+  },
+  {
+   "jour": "20261012",
+   "clos": 453,
+   "empreinte": "9379593785c4e3ee7ea95700500f1fe046521e73a1e14bf2fdcd77d5fd3aa1d9",
+   "ouverts": [
+    {
+     "nom": "audit-20261012T011841Z-16612.jsonl",
+     "lignes": 11,
+     "fin": "12fdadec6b8a203782f5391a4ca18947bf193890a2e47d33e6eb58f206cb3097",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261012T065613Z-30072.jsonl",
+     "lignes": 17,
+     "fin": "48c0d3f1c57d5ad802dfe6d229c2b83783503e889628727a0dc481762d0786ad",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261012T074011Z-29964.jsonl",
+     "lignes": 11,
+     "fin": "3bb92dae53cdf310d983c456aca0c503f21efa4ba5829807543bb46898b05ea9",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261012T082530Z-20692.jsonl",
+     "lignes": 33,
+     "fin": "12890044eb9806a006e5772f82ef105e72dc5848866a34081a8a6a0f2219f687",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261012T100518Z-25732.jsonl",
+     "lignes": 1,
+     "fin": "add3155ea6c954a77e82eb34b5b141b0747e75aabc879d525eefa4e486fdf579",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261012T100518Z-29860.jsonl",
+     "lignes": 3,
+     "fin": "c1477e650f5ccd0b55904144f3fc895c05ab8fd2978ba28ef80e06d53939a3b0",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261012T111044Z-28748.jsonl",
+     "lignes": 17,
+     "fin": "06d9454b616148359ec2339bd3b3231ff1babaa604d33245701e83525d609b80",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261012T122356Z-1800.jsonl",
+     "lignes": 95,
+     "fin": "e2a430dff9be86489ce88bd388aac67cc7e8983db27de56b33cd1ddf33386881",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261012T154908Z-31352.jsonl",
+     "lignes": 3715,
+     "fin": "6edba80b774f86389f0f352914cbe1a7769f5763cc94f48d17cbbd8be72b1e09",
+     "stop": false
+    }
+   ]
+  },
+  {
+   "jour": "20261013",
+   "clos": 28,
+   "empreinte": "3863a99d7ce3867f6f8323081f38df5b01b302f3541580c4c5858ff756df8c91",
+   "ouverts": [
+    {
+     "nom": "audit-20261013T065757Z-12200.jsonl",
+     "lignes": 5547,
+     "fin": "f37b761ffa6bf432c222fa2375adffa9667515450aac168b7ad2693aff2f83a6",
+     "stop": false
+    }
+   ]
+  },
+  {
+   "jour": "20261014",
+   "clos": 1161,
+   "empreinte": "cbca221ecf1f41563da3865297dac97c2955307f73a177142467d17a1258037d",
+   "ouverts": [
+    {
+     "nom": "audit-20261014T000734Z-4260.jsonl",
+     "lignes": 163,
+     "fin": "928812edeceacbae6ae086594024faa18e200887d4cf51f9e9a7f4ee084df6d3",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261014T003952Z-19744.jsonl",
+     "lignes": 109,
+     "fin": "5e75e3d15b7d8a8fb8b28878cd8177d780ed5d4d6c9efd07230b4f3eb46937c2",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261014T005602Z-31792.jsonl",
+     "lignes": 986,
+     "fin": "595a4839f4aad9a24282aa837adbde3ff11658e4c2c6bb76698a6c2e4faa3f08",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261014T072318Z-308.jsonl",
+     "lignes": 385,
+     "fin": "cea08f9f158c90f5a0c0be6388c926e72746c38e26584ead2b6237032ad0f8d0",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261014T081627Z-18380.jsonl",
+     "lignes": 713,
+     "fin": "ace76a87776cdf8f6fdf5311741228e9116527fb5ec9b677549ee0ccf9128088",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261014T100646Z-29260.jsonl",
+     "lignes": 1,
+     "fin": "ed56ddef3a7ac9e969f98055bd32ced9f02284f17995f95ee9de1f95fbbbc493",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261014T100648Z-5660.jsonl",
+     "lignes": 1,
+     "fin": "f00fb78e0f921728f64464df4e6a1761c21e4aa3afcfcb1019c2952a014a5d94",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261014T111546Z-21048.jsonl",
+     "lignes": 10560,
+     "fin": "dfbd9912764b0d84e5e2efca3a46ed1150dcd8443a4157fe4fcd14787947fb63",
+     "stop": false
+    }
+   ]
+  },
+  {
+   "jour": "20261015",
+   "clos": 1916,
+   "empreinte": "54b5bf53e722abd224c5cc2555523170739a7763acb29e65c00b5a50e9a6c92d",
+   "ouverts": [
+    {
+     "nom": "audit-20261015T073133Z-19868.jsonl",
+     "lignes": 1869,
+     "fin": "388e40a70cb9c6d445861114a53da96062b10d68fedec229cd2b625ba05a115a",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261015T123651Z-19556.jsonl",
+     "lignes": 27,
+     "fin": "2f91852c276ab97946f2ff8efd07c87e428bd89296fc4a2dc8639eb02a428572",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261015T123707Z-31212.jsonl",
+     "lignes": 7,
+     "fin": "278912487480933b7438d237cdb460b6509e4826a0af07772991a855b5ffef29",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261015T123903Z-19880.jsonl",
+     "lignes": 51,
+     "fin": "0f94120ff951470b9daa776b35c9bc13c8dccea38980c040e58d8d85a2886944",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261015T124736Z-26000.jsonl",
+     "lignes": 11,
+     "fin": "65e89e3a65648b71ae02d41383457ec9a1c6142ba92803ac63aae4cac1e633ee",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261015T124746Z-22940.jsonl",
+     "lignes": 5,
+     "fin": "e60a573db4943cf023ec104fed2939fd82e1d519f307480286b14adbbb888a29",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261015T124746Z-24752.jsonl",
+     "lignes": 7,
+     "fin": "fe38bad1547c18a731002c44988862536d28d3a691f63a4d5f199dac4d87ce0e",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261015T132736Z-16132.jsonl",
+     "lignes": 938,
+     "fin": "7f5685b33029c023e8b7beac80e6a03472a03e696ca7f4b221cb652bac4a7e61",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261015T172858Z-11376.jsonl",
+     "lignes": 3,
+     "fin": "7924c298e969889a3809001dcb4cf8ab2426f272c62817fdc8e076c36549e296",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261015T192000Z-13992.jsonl",
+     "lignes": 3,
+     "fin": "4143a9fa32b6eb7cc8b4e536b505ab1334948ee57538ac66e674ae40cba27b25",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261015T192748Z-21460.jsonl",
+     "lignes": 5,
+     "fin": "bb8b65b263fa60657ad96e95e7d9d574ad544d44196176673ad45099bdc96547",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261015T193001Z-3264.jsonl",
+     "lignes": 9,
+     "fin": "a14220ddcc0f8e59f1c870ebc04682d306d73f4803ca0feb5ff569ae46492da9",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261015T193126Z-8344.jsonl",
+     "lignes": 9,
+     "fin": "b295ffaa76537b6eccef3f3af68fd3bab14992452a5ea8aea60c411ca2ccfe5a",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261015T193639Z-24288.jsonl",
+     "lignes": 449,
+     "fin": "7775cdd3c9b555122a968c79d3707064a520344ac6e498175822527785a3b6df",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261015T213733Z-4740.jsonl",
+     "lignes": 425,
+     "fin": "4d57c99187038314937fce1385d79b9427348f36e32923875228493641c105e5",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261015T214334Z-4052.jsonl",
+     "lignes": 7,
+     "fin": "c5978bdf2b101bdb6d4e85b7cf99f183ca11fd41fd10202ce1ad720c2806823e",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261015T222944Z-11084.jsonl",
+     "lignes": 9,
+     "fin": "3d5da8c662c1b519948c6cd78b8e051088fd86a96c22cb79c9b0440383e6d77b",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261015T222945Z-30456.jsonl",
+     "lignes": 9,
+     "fin": "ebee1718c4e62d8b4a52e3c0800742abe27cd29c46eb46496e48aff44d03214e",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261015T225339Z-8820.jsonl",
+     "lignes": 3,
+     "fin": "d5bbe8a78af7f799d5f9a6d619dd9616a10552c08e45a3fd296fe10739fe43d9",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261015T225340Z-16560.jsonl",
+     "lignes": 2,
+     "fin": "f74211c3bbb93b3574caef21945b24b87227f157f0a6189935ec423df0fe9dff",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261015T231929Z-10920.jsonl",
+     "lignes": 55,
+     "fin": "81caeee4810e216d4be4fd7007ec0b7673965f7966f17e94ef546f7bfb86fb2b",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261015T232254Z-22608.jsonl",
+     "lignes": 11,
+     "fin": "ebe638866238bf35eb7b28f826d55557e4f5d0bd566ed1ee870344daa5233e2d",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261015T232312Z-25740.jsonl",
+     "lignes": 1,
+     "fin": "db4fd68976d413585ea8471fd020fa0d62438a5ed53194ce9f6784c21a96d0b7",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261015T233424Z-29196.jsonl",
+     "lignes": 297,
+     "fin": "0f52104bd23b5017824c2973062e42064f0a86dc97b9c416e364959b01915640",
+     "stop": false
+    }
+   ]
+  },
+  {
+   "jour": "20261016",
+   "clos": 38,
+   "empreinte": "20565b1ab69a41eb493cd7823762e2181550a9b1f17b8b27d0ebbab7f6cf30c4",
+   "ouverts": [
+    {
+     "nom": "audit-20261016T000210Z-11176.jsonl",
+     "lignes": 1,
+     "fin": "11597950df092ba89965e61010c1e8786f511f4906eb20d80e79fff57b75f30e",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261016T004100Z-19312.jsonl",
+     "lignes": 47,
+     "fin": "210a7e67968bdb9544f8b260d727faa652f6e183507d5c1995adec30f1689a5f",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261016T004751Z-27244.jsonl",
+     "lignes": 243,
+     "fin": "df0799c5c92c6698524f98bb93500e200d416742d9411b5c2e916906715623de",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261016T011531Z-25044.jsonl",
+     "lignes": 1210,
+     "fin": "c12eda9dc85d31d4d9c3f09faa8d1bf700ebbe50025c1eef8986598db577fea3",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261016T062407Z-28484.jsonl",
+     "lignes": 5,
+     "fin": "3f7024a115567eb98c57154470c0e2d15ba7921b41ea8fa39bfae82cc7b9b2d6",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261016T062541Z-29364.jsonl",
+     "lignes": 219,
+     "fin": "55ceba0d456a74a51432f6d2939ce0bbb9dda1f59476cf91907f44c98331ad17",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261016T072034Z-5100.jsonl",
+     "lignes": 51,
+     "fin": "1d626a749c8a8eb2c4dfe1947be603aa9193b703692f664c35c093c5e9626d40",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261016T072514Z-25320.jsonl",
+     "lignes": 167,
+     "fin": "532efc9921f1b310c9219b8b291ca350fd55d3ebe59cbcae6363fd1445e9de66",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261016T080643Z-8028.jsonl",
+     "lignes": 181,
+     "fin": "441c5f0d564bd4d403d55fd82db276389728ccdc488501bf04c8fa7d316fac61",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261016T084617Z-32164.jsonl",
+     "lignes": 515,
+     "fin": "d2280de9fe14b3f37c62a4850220080bbc3102dd4ab705cdc42bf35fdeca4451",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261016T104454Z-29204.jsonl",
+     "lignes": 35,
+     "fin": "833da2cfd3ecf5fa8c676ba89ff293ec8b11f708c27312195bc1bc20d7650210",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261016T105205Z-20736.jsonl",
+     "lignes": 125,
+     "fin": "4e6287955f62ad7102223b70c0380497f8c3aabd3b3a09eb3e2e5848967b0935",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261016T112232Z-2112.jsonl",
+     "lignes": 4319,
+     "fin": "cfedf3870809d107f5607c98904145d74adb34c9970dab095c3abd6a4a50cf49",
+     "stop": false
+    }
+   ]
+  },
+  {
+   "jour": "20261017",
+   "clos": 341,
+   "empreinte": "73f9e3cbcef1cfef5a377c39f41b6f34a23eb0b0e9b8137cd2fe7ba3591eab61",
+   "ouverts": [
+    {
+     "nom": "audit-20261017T072000Z-7704.jsonl",
+     "lignes": 213,
+     "fin": "c9047305748e65866aa47012344e2ab9e1d85552c5352e14e659bba6adcd66c4",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261017T080603Z-5224.jsonl",
+     "lignes": 3201,
+     "fin": "712f2430c2d55969db67559b7947eac0785c4ec3346b7c869c4f300a801f39a0",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261017T234641Z-34764.jsonl",
+     "lignes": 4281,
+     "fin": "e2d614cbcad926729b877a4a404aa2f4e5dcace1c7b480c7ac0a33ddf0ce4eb1",
+     "stop": false
+    }
+   ]
+  },
+  {
+   "jour": "20261018",
+   "clos": 366,
+   "empreinte": "96a367d70a124eccebe8cad1b865d88c9c942ef4b7f54af604d82d71e9f9d66f",
+   "ouverts": [
+    {
+     "nom": "audit-20261018T165802Z-13272.jsonl",
+     "lignes": 733,
+     "fin": "793327b120d9852a678e5f3638ff4781ea0ef344f784abefe885f0b07bc6a257",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261018T194739Z-26268.jsonl",
+     "lignes": 1399,
+     "fin": "861a3baf39074917a20ebe0e6ab290f77f5d9f50d06c61ba4242d05bd831d826",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261018T232046Z-31060.jsonl",
+     "lignes": 15,
+     "fin": "870fd1b989d1845c9f1792cf5363e3168a00bcf42175cbf739def31334d1778f",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261018T232054Z-30128.jsonl",
+     "lignes": 11,
+     "fin": "9898279de9a07e9797d38a8be0a2fa8f78cf4d5ff7a91bd39bed2559167bb2a9",
+     "stop": false
+    }
+   ]
+  },
+  {
+   "jour": "20261019",
+   "clos": 0,
+   "empreinte": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+   "ouverts": [
+    {
+     "nom": "audit-20261019T073853Z-36876.jsonl",
+     "lignes": 4731,
+     "fin": "11aba5fabee9ef9a52b2cf9f3ba44a47faf55712489595f4c694fc3efcce7b3a",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261019T081254Z-17416.jsonl",
+     "lignes": 1,
+     "fin": "df6224a44ecf04bac2d2ecb85c9c72a0e44cc1edf751de8e0dc5a2846d7316ef",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261019T081255Z-25020.jsonl",
+     "lignes": 1,
+     "fin": "6ba9f1137a82baac1dd211d6ecf54133cdabbcf007e7e27aaa7f6d8c01551025",
+     "stop": false
+    }
+   ]
+  },
+  {
+   "jour": "20261020",
+   "clos": 511,
+   "empreinte": "3bee8b9487243652c3a3a2ad5d823074c8fc181cf0fd4d3ab49d1075e55095d2",
+   "ouverts": [
+    {
+     "nom": "audit-20261020T055945Z-14160.jsonl",
+     "lignes": 3,
+     "fin": "94ba3280457a27382f57654e51b5bb4c48f2edd893beb1fbd6ff38d98869da73",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261020T061140Z-22440.jsonl",
+     "lignes": 915,
+     "fin": "db624d102e3cc9fecdad0a4e5f83a33ba3f30f61a602546b18328c67af79cd36",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261020T091017Z-12828.jsonl",
+     "lignes": 3337,
+     "fin": "9d9b4d563f411e4b86f24784f4109fb4f8f8be7fc649ae0e3c5dede278d87aa7",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261020T091155Z-23100.jsonl",
+     "lignes": 7,
+     "fin": "79d6266632aed7c9653ae2e383982d91294b1761489325710a0da90cf3f68351",
+     "stop": false
+    }
+   ]
+  },
+  {
+   "jour": "20261021",
+   "clos": 0,
+   "empreinte": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+   "ouverts": [
+    {
+     "nom": "audit-20261021T052633Z-22020.jsonl",
+     "lignes": 1943,
+     "fin": "d5d66b9c7ab9076db30b30f848207b1aec08960a614b036dd3bf7b0b7a805552",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261021T101550Z-5440.jsonl",
+     "lignes": 6995,
+     "fin": "565d80135cffddaaf461d0a921d818477f530c8530c973644c51e79a0377cceb",
+     "stop": false
+    }
+   ]
+  },
+  {
+   "jour": "20261022",
+   "clos": 24,
+   "empreinte": "d0106f5b71d57db2b46d74a3bedf430124f1667a5e857a9fd19b659248c52442",
+   "ouverts": [
+    {
+     "nom": "audit-20261022T070350Z-4580.jsonl",
+     "lignes": 587,
+     "fin": "d3cc0f9e122f939a2ba499f4e75bc4cb376c5a27c1401cf74d61c07e016123dd",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261022T083732Z-30344.jsonl",
+     "lignes": 109,
+     "fin": "ceadc1d841b8ace9537ec7fa2330f8ceb3a71f2196907530dfdd501771be83e8",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261022T090309Z-28816.jsonl",
+     "lignes": 369,
+     "fin": "71a5d85b28b129334b7f6d5a15f89f2924cbff4e53f7463f4c1aadb194fbdfcd",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261022T101032Z-28512.jsonl",
+     "lignes": 73,
+     "fin": "e2a8666bb59d9c719e6c152f1eeeec701870ac4834ea743e47128ab9c3450ad4",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261022T102951Z-28976.jsonl",
+     "lignes": 2811,
+     "fin": "c961e9ee26a0fb451e55409bc7890c72abe48784b6fd6754f1a80bbd22b936bc",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261022T203658Z-8608.jsonl",
+     "lignes": 187,
+     "fin": "8d234728c5d89334ee572a018416536add388b423791bd9c21fc7fa2105af233",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261022T211114Z-20324.jsonl",
+     "lignes": 2439,
+     "fin": "a34c75f5eaea548618397c9fbdddfaa9b47bde3c2f67a01caeb056361bdf54f7",
+     "stop": false
+    }
+   ]
+  },
+  {
+   "jour": "20261023",
+   "clos": 97,
+   "empreinte": "8ab4fe6680eebc7d83674ab049669f573adeeca3bb834c2d0f074e07d1872e2e",
+   "ouverts": [
+    {
+     "nom": "audit-20261023T094039Z-30032.jsonl",
+     "lignes": 711,
+     "fin": "3e8bef347a8ea36f6765da56370646d207b4862141f1e11a758cc1bdc50e2386",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261023T122934Z-16656.jsonl",
+     "lignes": 539,
+     "fin": "a3443d06cdabe42d202ad80cadf94249d608de7c69502f24cc2a825db37b1714",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261023T134702Z-23136.jsonl",
+     "lignes": 375,
+     "fin": "8fb92d41bacab55f065a0048c4998095a32f56bf807dc35011e5a6d00c19ac1f",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261023T145017Z-28696.jsonl",
+     "lignes": 3515,
+     "fin": "c22a249b80c405c33158a8662b4e15955b3aa6b45ba13aa366a4e569e994a9f7",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261023T164129Z-29456.jsonl",
+     "lignes": 1,
+     "fin": "5bc62d04c9a0da8f5caccc5e678eda68eafcf8b619a20e1ed034fac76611cd66",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261023T164134Z-10468.jsonl",
+     "lignes": 1,
+     "fin": "497058870065ef0edca9d9cc294ea4463c7d751b9776c55eec96789ab5aa20c8",
+     "stop": false
+    }
+   ]
+  },
+  {
+   "jour": "20261024",
+   "clos": 72,
+   "empreinte": "45b70e325294e1b7190317394adc5ee361bc5266e1b27f33aea846204ff73f55",
+   "ouverts": [
+    {
+     "nom": "audit-20261024T110406Z-4240.jsonl",
+     "lignes": 5247,
+     "fin": "0095488746af93ba70a87b1e68837582309a04ef73f4bb0c076d39032a9c6762",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261024T184855Z-29680.jsonl",
+     "lignes": 3,
+     "fin": "b6d4a01ca3bd221630304065f7a085db4c35747fafbdf9e49150d6e25c664aca",
+     "stop": false
+    }
+   ]
+  },
+  {
+   "jour": "20261025",
+   "clos": 6,
+   "empreinte": "c0210dbc1dd973e8e7d8ae686dc52e9d265b5babe61d8d6abbea6f655ab3d612",
+   "ouverts": [
+    {
+     "nom": "audit-20261025T173122Z-20056.jsonl",
+     "lignes": 9282,
+     "fin": "4be6fe31d8d5492cc625798a8ad83a450c010216027a8ce2af71ec563b0d6d4e",
+     "stop": false
+    }
+   ]
+  },
+  {
+   "jour": "20261026",
+   "clos": 20,
+   "empreinte": "8e541c2a43b4a3afec219068eaf099eb4578328037ea777b6a3417b1da6e158a",
+   "ouverts": []
+  },
+  {
+   "jour": "20261027",
+   "clos": 0,
+   "empreinte": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+   "ouverts": [
+    {
+     "nom": "audit-20261027T065005Z-8696.jsonl",
+     "lignes": 8,
+     "fin": "d3a3f12c190a6674e8ff182bd7f406c9606e3e46974a22e2fcdaf8597f603f48",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261027T065150Z-24088.jsonl",
+     "lignes": 1233,
+     "fin": "e4176d7d68208a091b6e7024408a31b23c063a56d323665cea667fa7024a6d32",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261027T094331Z-26040.jsonl",
+     "lignes": 3703,
+     "fin": "590791813b1593ca32970ae237982f321a06a8767cd46785acbf08174e0c0361",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261027T191436Z-27916.jsonl",
+     "lignes": 10091,
+     "fin": "7a8caa7b16f615a2f3c67aff5ac4167d68a8aea62d697493abb1543ec569291c",
+     "stop": false
+    }
+   ]
+  },
+  {
+   "jour": "20261029",
+   "clos": 634,
+   "empreinte": "233a80136711026061367806d7cd8ce61e7934981f45d276987fe3e16e1a2acd",
+   "ouverts": [
+    {
+     "nom": "audit-20261029T093937Z-15332.jsonl",
+     "lignes": 191,
+     "fin": "e8d90d2141c15522c0af20670b2fdfacaf4a1259735400ad51092b884fdd871c",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261029T100517Z-2648.jsonl",
+     "lignes": 1,
+     "fin": "4d4e1917c59f9bb5f783e3eb6b91dda7913bda39f6151a7e0244001059a7ca0c",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261029T100626Z-22308.jsonl",
+     "lignes": 1753,
+     "fin": "e7337c04a042fa9d8ca9810b1c2f67d94df2c234a007fe67d6827721c921f3b9",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261029T153933Z-13488.jsonl",
+     "lignes": 3215,
+     "fin": "04cb9cbc834217a832b9e0762d3123aa5f094c1b2ec2e575c24c336fbeefadff",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261029T204442Z-19760.jsonl",
+     "lignes": 1427,
+     "fin": "03d8467a7825bfbf82e0b76838f964eec11b0fdc3b726089ea9b05611488bad2",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261029T223545Z-3320.jsonl",
+     "lignes": 7305,
+     "fin": "8d65823709a7b355e14193a9c70ca3c3945e9a6cce49ffe4647a0c1fc4a5e43b",
+     "stop": false
+    }
+   ]
+  },
+  {
+   "jour": "20261030",
+   "clos": 54,
+   "empreinte": "e4065518d456b11f06917f5f482a13f41ce68ae99749167939f4027470da653e",
+   "ouverts": [
+    {
+     "nom": "audit-20261030T071337Z-9660.jsonl",
+     "lignes": 12419,
+     "fin": "0e3c654f1e50426d5d023a3387b07846912527d4534809c3802a7cf7a079c55d",
+     "stop": false
+    }
+   ]
+  },
+  {
+   "jour": "20261031",
+   "clos": 0,
+   "empreinte": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+   "ouverts": [
+    {
+     "nom": "audit-20261031T132732Z-8268.jsonl",
+     "lignes": 9199,
+     "fin": "a73c77b916c176ea536581736d784769b30a33717602420abbff6d35963fca83",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261031T235400Z-14880.jsonl",
+     "lignes": 9393,
+     "fin": "0cc826d432474da64f7ad92e16af4248591a6fad92a6b0e5bf09c9d032071edf",
+     "stop": false
+    }
+   ]
+  },
+  {
+   "jour": "20261101",
+   "clos": 32,
+   "empreinte": "3115ad20c0751d31b0b9ad7901f203ee67d57d5c3d70f776fd62f84d46025e5b",
+   "ouverts": [
+    {
+     "nom": "audit-20261101T180322Z-5200.jsonl",
+     "lignes": 815,
+     "fin": "7841c9fc909a0d80b356d5440dff478573dffb4961ce715c5650d2bcc1ff66cb",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261101T184858Z-28872.jsonl",
+     "lignes": 1407,
+     "fin": "2d5e7b15cdeec0eebedf0b3dd40a9d33376ed357fa3f97c64ac86420ef0e1f50",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261101T185032Z-20380.jsonl",
+     "lignes": 7,
+     "fin": "a1f356868b7e1a402e01708937b71824bcae8523f92858dfa751e7318a2d232e",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261101T200809Z-26452.jsonl",
+     "lignes": 331,
+     "fin": "cc343689f47acab4fe27dbfaf56ae3db68930d7c52536d16e7bd5ba41898aee5",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261101T201840Z-20920.jsonl",
+     "lignes": 881,
+     "fin": "4b5c24fddf98a6c6ce4562a1b928bc36e78456a17702e9cf0d15d55d94484e91",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261101T210349Z-5124.jsonl",
+     "lignes": 631,
+     "fin": "e228c1222a65d2fa68cca1e04efde2fdc14290ed696b75081e804284530b4669",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261101T210859Z-28072.jsonl",
+     "lignes": 787,
+     "fin": "f48c4d18838bf43fcfdddd137e15f5cd740414de16622d8b1b0a27c02a8deb93",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261101T215203Z-25696.jsonl",
+     "lignes": 27159,
+     "fin": "04642ac31f79fc605a7eb39361576a3fb6f636a328b0e6e21ff270de97a600e8",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261101T224246Z-22628.jsonl",
+     "lignes": 696,
+     "fin": "3bc2d63d96f374ecfa043d1ff2258f1b657eeac31f4730e29180ca85c802fdf3",
+     "stop": false
+    }
+   ]
+  },
+  {
+   "jour": "20261102",
+   "clos": 168,
+   "empreinte": "aed8d5ecfe21d188f4c08797c8ff0861e8b7be0342e16cb80de154c58c3fd61c",
+   "ouverts": [
+    {
+     "nom": "audit-20261102T004456Z-25312.jsonl",
+     "lignes": 413,
+     "fin": "2febf86d03f888de9ab5f8362dd95daf2141fcb321e1b1f2df3a2d3ce3fb13e5",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261102T095345Z-27020.jsonl",
+     "lignes": 553,
+     "fin": "7ff0948762d5cf915b1d9135bb66b3875b5ccfb1f45ea43d68edeb6ca8ee5f15",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261102T115454Z-14648.jsonl",
+     "lignes": 1001,
+     "fin": "9d2cff703eaf6f803ec3f922508e0272fb2ea5e9b3296729ae2bce1281102ceb",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261102T150146Z-31016.jsonl",
+     "lignes": 1925,
+     "fin": "a52d62e11e1a102c216c8873a374cf04431ed5d5074934c8d925318c1ecb67df",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261102T223041Z-11056.jsonl",
+     "lignes": 456,
+     "fin": "2fb0f194251ee680f8ef9fb8ead2bab94343726591e1977035e03993d2dc0e56",
+     "stop": false
+    }
+   ]
+  },
+  {
+   "jour": "20261103",
+   "clos": 262,
+   "empreinte": "8c9e56f20a12b3b18358e33b53fee6345164ac2ed6f330a8f3f0a0b98fde99ad",
+   "ouverts": [
+    {
+     "nom": "audit-20261103T004041Z-8680.jsonl",
+     "lignes": 72,
+     "fin": "0fa0d3be9055601ee8ef9a96b0c7ef28c19b981ba04e6173f8de96bd0c26e4e3",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261103T074545Z-32156.jsonl",
+     "lignes": 61,
+     "fin": "32795537906e4a4002f3d6dfbf44e5f8183785af56d038267a4f2bbfa310ffb6",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261103T080339Z-4488.jsonl",
+     "lignes": 4,
+     "fin": "3b24c88e373a2ca31967763d449bdad5f919f028870b3e6f447255c806f08675",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261103T081354Z-7240.jsonl",
+     "lignes": 362,
+     "fin": "62b1504a12166699b17e2ff007e04a9eb9802d36386dde669e90e6b3ba86778f",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261103T100046Z-27788.jsonl",
+     "lignes": 151,
+     "fin": "bf0464e81104812e4d6959d6c17287845b5403ec7dd7eb917f0bb8cb592d5be6",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261103T124903Z-12364.jsonl",
+     "lignes": 1,
+     "fin": "06af205375ef0a5a680ac39cd579cf54b793ec82caa35defce44141f4bbc3765",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261103T164033Z-22276.jsonl",
+     "lignes": 20,
+     "fin": "62e06b9d6433609e4724558bb572b75c1bc2ec61a4ccb7242ab250d7a499028c",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261103T202023Z-31324.jsonl",
+     "lignes": 1,
+     "fin": "f15ea7463faa5077c2fb0a65b5ac4656cf14a0cdb14a3565511e7e0a410bdbfc",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261103T205520Z-30748.jsonl",
+     "lignes": 3217,
+     "fin": "a3637afa2b21875e4f31a93fdf27911c911098a4359df8b305b55834600eaee2",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261103T211547Z-27064.jsonl",
+     "lignes": 1,
+     "fin": "1de21d0a7d46c9d50ae76d9f5a0e8284702425ba235d0c073831a13b27f73c11",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261103T225520Z-31332.jsonl",
+     "lignes": 1,
+     "fin": "d9489ea4e79574ed71e77264a60a1e7a24729c4e22879c02b4861e296b77ca5c",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261103T231516Z-6636.jsonl",
+     "lignes": 5,
+     "fin": "94eeb5bb4fa16a9a77e0f81d0bc1913168e4590e0dd26ac3014b27178323be2b",
+     "stop": false
+    }
+   ]
+  },
+  {
+   "jour": "20261104",
+   "clos": 2,
+   "empreinte": "4204c17c8f7b019198b8249fc9e3a48c42bc775922acfc6a681155d4ea9bb249",
+   "ouverts": [
+    {
+     "nom": "audit-20261104T002630Z-28872.jsonl",
+     "lignes": 24894,
+     "fin": "5bbdca6750030fad844135162af7de8b88d199eca4f9f3fef98352ba84271caf",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261104T015537Z-11372.jsonl",
+     "lignes": 4,
+     "fin": "98f1f4c3ef84ef9b034cdb93ea406be03e476bd311cbb971cd6815907d464e3b",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261104T084437Z-19696.jsonl",
+     "lignes": 1,
+     "fin": "4a663f661d27a583a721871580b027776dc647289c4360fad03a21172e48a9cb",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261104T104318Z-31852.jsonl",
+     "lignes": 1,
+     "fin": "558c0d74ff06ea2dc9df7b9caf11983d686c9b5d9726b9a210fd916a568e58f9",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261104T134320Z-31764.jsonl",
+     "lignes": 1,
+     "fin": "c92dcb260c5195c488bcfee3f2cf3199921b5a7b83b5ede5d9e2f93e838b1362",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261104T140236Z-14808.jsonl",
+     "lignes": 1,
+     "fin": "e0b186ca32dbb80ce590d24e5b62e0ad8ada3664b6e4b3e2d38aeb33e00d07f1",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261104T140401Z-34260.jsonl",
+     "lignes": 1,
+     "fin": "fa829f682951057df494787ece7a2a96eaea998f0b0a46f6bf0bb18b2505ed25",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261104T143815Z-24964.jsonl",
+     "lignes": 1,
+     "fin": "20ee0bf0ec78d931d5216924c49bd1cd36b25f775f5bfe1495169313edaa420a",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261104T180121Z-33680.jsonl",
+     "lignes": 712,
+     "fin": "e13970bd8d55e96caef29b4eb2252915133fe432bf2d47ca6f261a57ed365d43",
+     "stop": false
+    }
+   ]
+  },
+  {
+   "jour": "20261105",
+   "clos": 5,
+   "empreinte": "12cce527d9ab641b00cd04c8f34f8e206616ce74c98c84f29f79238c62fc798b",
+   "ouverts": [
+    {
+     "nom": "audit-20261105T080911Z-3120.jsonl",
+     "lignes": 2,
+     "fin": "c066398d6911f8c80fae83e706b7dbb2cd0f34e6dc4e4b970388d8267e9435f0",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261105T143941Z-16808.jsonl",
+     "lignes": 1,
+     "fin": "2b24d1bb0716f4b13dc43db24823f16fd4ed8e93467b65ed24bb88fbf31c6b49",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261105T151009Z-29624.jsonl",
+     "lignes": 4869,
+     "fin": "52fedd10c717f346e501676cee92815ef41a36bf596ecba5f65546982142e867",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261105T152110Z-33196.jsonl",
+     "lignes": 63,
+     "fin": "475cfc0940c0a809b37e321843cd962e0b5712602994fd2bbc4ee78049ce898b",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261105T180025Z-15116.jsonl",
+     "lignes": 265,
+     "fin": "bf6789253cac7dcd943000dc4b038feff5b84e1468950d985cded1e24686ec0d",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261105T213452Z-27504.jsonl",
+     "lignes": 328,
+     "fin": "b434dbbe7492a2d819ac604ccc958295b7a47e369ca92b7622b36a0fa0a1281f",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261105T215316Z-29304.jsonl",
+     "lignes": 539,
+     "fin": "a7e2c471f1af96ab4b913bbb05adb36315390339035a24f7086a9373f9f96816",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261105T220421Z-5004.jsonl",
+     "lignes": 784,
+     "fin": "07f6884e4ccd0d4e595a7050bee413695fbc0fcf6a14aac14e3a072020f0caf9",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261105T223000Z-16952.jsonl",
+     "lignes": 70939,
+     "fin": "5049f853b96ffc27189a6a330a36edde250f9de9291b0b349d07102408f53e3f",
+     "stop": false
+    }
+   ]
+  },
+  {
+   "jour": "20261106",
+   "clos": 7,
+   "empreinte": "a45a9f502db35b874563ff929f3f31c5a2543b4bbaa5d850a5cb95f844fe135f",
+   "ouverts": [
+    {
+     "nom": "audit-20261106T011842Z-33436.jsonl",
+     "lignes": 91,
+     "fin": "0c2a58052a79fb57ed360253d1164ee6e3f1af92ee8b1cb62691d854b658b7bc",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261106T094939Z-17352.jsonl",
+     "lignes": 1,
+     "fin": "c310db632137cd61f3afe77a326f009d08f0529d5844f6fe3723d35c6db44b33",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261106T121242Z-28856.jsonl",
+     "lignes": 1,
+     "fin": "affb96f59c1450ececcb506122efd5a5a379686a593885ca6c44023a985f3a7a",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261106T154004Z-17884.jsonl",
+     "lignes": 1004,
+     "fin": "0e2cad9468614a23df8f56efd5c9053677f32763c08cdc0f8ed978f0e98e8fa5",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261106T215211Z-32492.jsonl",
+     "lignes": 1,
+     "fin": "10e08312a41ed4f791c6b9a81dec999b08afdc2fce0a24fa4fe525e80f8d17d2",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261106T233123Z-21256.jsonl",
+     "lignes": 1,
+     "fin": "4a69dd69747547dea39eec891bc0f9534d88a08e6666873877e52f5bf924fc1d",
+     "stop": false
+    }
+   ]
+  },
+  {
+   "jour": "20261107",
+   "clos": 1,
+   "empreinte": "b7fb61799bfdef2b3c8174ccdecefef6f516ca12d560450c5b7e4cf36a8c1493",
+   "ouverts": [
+    {
+     "nom": "audit-20261107T074545Z-26992.jsonl",
+     "lignes": 1,
+     "fin": "8f6b7a50c60726794c6a42d8ac0f521a92137cb7ff1639953be65fd44c03e4c7",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261107T092312Z-15092.jsonl",
+     "lignes": 1,
+     "fin": "56577e7e53c4bcb4945453a51c9e4abcd0b8ce32efcb804ee2e9e1a3c75e7ad8",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261107T131210Z-31932.jsonl",
+     "lignes": 1,
+     "fin": "c6fc89129f9b30af5b76b07170ae37efc39b03efbb56c1e8bc34084439f0e19d",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261107T174713Z-24232.jsonl",
+     "lignes": 1,
+     "fin": "db6a0cf0185c6707be3d6a2a80ab276ee6551e7960a766f45578ee0292cbb994",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261107T231407Z-7080.jsonl",
+     "lignes": 2713,
+     "fin": "ef4f71504395132ded1fec5b15f0755031800976e4cb3f08376814239cfab809",
+     "stop": false
+    }
+   ]
+  },
+  {
+   "jour": "20261108",
+   "clos": 271,
+   "empreinte": "4101773e640b419612ee8c7d4691121bcd53acef1fdb3ca18350a680286ca3cd",
+   "ouverts": [
+    {
+     "nom": "audit-20261108T120032Z-22388.jsonl",
+     "lignes": 1,
+     "fin": "ef6af4a97aeb2dd6866e47d3e8c04a11983eed3bd1a385779df3239d1f8adab6",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261108T182514Z-12228.jsonl",
+     "lignes": 2884,
+     "fin": "ebf400b337ed4221051ae002ee5a521377632f1ea7dd988ccc17bcc6b28ab2b6",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261108T221650Z-5012.jsonl",
+     "lignes": 5,
+     "fin": "f90cb27addbfb5adb1f64864a018e6962d5948ef507ce4f78200cedc1ee431db",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261108T221949Z-9400.jsonl",
+     "lignes": 5,
+     "fin": "6f87163aba3b912bd4182199ceab58cc3b699b5401c5fd38b85ecf4efbb5381e",
+     "stop": false
+    }
+   ]
+  },
+  {
+   "jour": "20261109",
+   "clos": 448,
+   "empreinte": "b2fbbc27ee3a07f736e511b1caf942c37a7f4b477cf7aae16c4d24d25c2acdce",
+   "ouverts": [
+    {
+     "nom": "audit-20261109T004128Z-28476.jsonl",
+     "lignes": 1,
+     "fin": "560f9ab989f8738c31dc3abf0efd9bc70726ac243ced93467e4d36bcf99d951c",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261109T013421Z-4280.jsonl",
+     "lignes": 7,
+     "fin": "30e415486850c3ba57c4f2bb5ea23f9bce786d512132c5cf5e7a7b502badd37d",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261109T073157Z-5032.jsonl",
+     "lignes": 1,
+     "fin": "40ab36894fc1a84d3c46ae807416af47d8be09be9ffb982f1f1074eb51b184e8",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261109T073605Z-12108.jsonl",
+     "lignes": 1,
+     "fin": "c9c8ab31873240d56ffb342ec7d1965192c63d15a62195c64b418fb911aff215",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261109T090227Z-23544.jsonl",
+     "lignes": 1,
+     "fin": "921b058df8a57561863b466c426287f983f0cc00f69fd99b608578d2c54a67d5",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261109T100429Z-34564.jsonl",
+     "lignes": 1,
+     "fin": "b887c6658c0c4415b82afb2bb91b06d35c857ad42e75dac26307d2deafedf64f",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261109T153405Z-23572.jsonl",
+     "lignes": 1,
+     "fin": "f3128055dd396473e5dc28191137676e69640c81db4b07d16ab26eecada4af18",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261109T220317Z-2276.jsonl",
+     "lignes": 1,
+     "fin": "94948f4a6b974a9e7aa09aafdc28fde0b2a89f9e423f0acf0470f17f62513b68",
+     "stop": false
+    }
+   ]
+  },
+  {
+   "jour": "20261110",
+   "clos": 146,
+   "empreinte": "9d57fca177fe2ece3f103e5a47c0e28ed36062d56335b9ef078321f259155323",
+   "ouverts": [
+    {
+     "nom": "audit-20261110T063414Z-20116.jsonl",
+     "lignes": 6439,
+     "fin": "0ced9d22769c03f0d1d712ad6d6c0117231ff3bb21d63b1b58addb4d6b903058",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261110T063546Z-24332.jsonl",
+     "lignes": 1,
+     "fin": "e7a07b41bf8a51c60e840c41cb302507e740380e89116bde4403c585daf037db",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261110T082717Z-372.jsonl",
+     "lignes": 1,
+     "fin": "12a3ecd719e0f99fc6ec82bcc46f53ce9daec6c823becd58a2309a997491959c",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261110T113916Z-18460.jsonl",
+     "lignes": 1,
+     "fin": "139b10a07d2e7eaa7b41bcbff4b912ad9ae194bb36ebb4557a7c09dfaea8fbbf",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261110T130957Z-22212.jsonl",
+     "lignes": 2923,
+     "fin": "939ac6afce83b6b910b41d1ca0aea5c8b929f72bfe6e69aa9d0275e34f6813dd",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261110T160755Z-34308.jsonl",
+     "lignes": 9097,
+     "fin": "adc68c65df57fa755d127d99d28b35146e9eb6adf519fd835e3aa38b8e9a2f87",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261110T162033Z-23380.jsonl",
+     "lignes": 1,
+     "fin": "b3fb3022cc4071d52149f3088f41137a213d606ed046dc3edff96eb011bca0c2",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261110T165219Z-31276.jsonl",
+     "lignes": 1,
+     "fin": "4c95207e96674f3aa723670040c7cffc66cf221c41173c3968f6084ddd77783a",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261110T212247Z-26836.jsonl",
+     "lignes": 1,
+     "fin": "db16b6f2be7c59ad7ef188659be9a07c486f23d1e5c52d72e705ec47631f5dcb",
+     "stop": false
+    }
+   ]
+  },
+  {
+   "jour": "20261111",
+   "clos": 0,
+   "empreinte": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+   "ouverts": [
+    {
+     "nom": "audit-20261111T065753Z-31480.jsonl",
+     "lignes": 1,
+     "fin": "60958bbd294a7ff1958499d5550953489ec00442c34c311b7038c89085905e87",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261111T103526Z-19332.jsonl",
+     "lignes": 1,
+     "fin": "2586106e1b945e76048a9b188b70a3f97e6ea7ab975291c218eab8469b435dce",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261111T190505Z-4456.jsonl",
+     "lignes": 1,
+     "fin": "096d4d9f4eb09274325a301fac8e29c352fb75439f78d1e6e193240b04e77c79",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261111T190611Z-8524.jsonl",
+     "lignes": 4719,
+     "fin": "666f1eacf9eefc22b2642be6b2a7fca41a513896d28f91a31cbc72f1f149d634",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261111T190703Z-16576.jsonl",
+     "lignes": 1,
+     "fin": "a78a284e374bed80f5fabbd514b9be20b47d14d028eb54f237fa0db55cd3436b",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261111T225423Z-9892.jsonl",
+     "lignes": 1,
+     "fin": "ce998d850960ead4f014f1368e9a93a5a120df12600f779b0d903381431499e9",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261111T233756Z-15852.jsonl",
+     "lignes": 1,
+     "fin": "5932e423707ceb57636700ad430147a5563d11f587f3a7a7a1f6335b993ef1ea",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261111T234242Z-21848.jsonl",
+     "lignes": 108193,
+     "fin": "bdc0a4257e288a589c01f57eaa47b6a104e90ca214ac391eb1a840fe8c8112cd",
+     "stop": false
+    }
+   ]
+  },
+  {
+   "jour": "20261112",
+   "clos": 13,
+   "empreinte": "2a736fe056168431b190ff5ab333712ac003d4e93cd0b33137ebe91db9d1c926",
+   "ouverts": [
+    {
+     "nom": "audit-20261112T003024Z-27796.jsonl",
+     "lignes": 23,
+     "fin": "f2188559a6b2ed77373170f06b5cba8fb0f0ee3332aacd845129db62c9f67e0e",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261112T003517Z-28664.jsonl",
+     "lignes": 3,
+     "fin": "7cd653fbb1b6151f7f01998a7b2d585cbf17d63d0a80c76e6b76a39915fc9567",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261112T003517Z-4156.jsonl",
+     "lignes": 5,
+     "fin": "521fd9d784a2ce7553a5eef4de352df85882cca1c21a2cb24c6764a561d60862",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261112T003517Z-5704.jsonl",
+     "lignes": 3,
+     "fin": "01ba346d18faba9d70946326976cc4712503f8a111e90e014049f656c6e5c62a",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261112T003537Z-2864.jsonl",
+     "lignes": 5,
+     "fin": "f5dc59689540f79e57d8abcc049383528151f012e32d879838e187e24ed10ace",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261112T003538Z-18812.jsonl",
+     "lignes": 5,
+     "fin": "21e5aaa23e653e201854b3765b0a3599e112943b8acd05508669ed37cb3b2952",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261112T003544Z-27908.jsonl",
+     "lignes": 3,
+     "fin": "b8c9de97ef8e93c3ee081b640c0f6d1d0c3bb80c44c480413a97b06f420d06c0",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261112T003558Z-6560.jsonl",
+     "lignes": 3,
+     "fin": "eacaf682cbd4200159d5659dbfad972d0a41aca03a05440ed0a8303c7c8fad14",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261112T003601Z-29308.jsonl",
+     "lignes": 3,
+     "fin": "e3269bc96f54fb3001d462af7ab7c189b36ad9bdcc257fe0a1eb4835cb17ded8",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261112T003611Z-9336.jsonl",
+     "lignes": 3,
+     "fin": "ce87d7851e5f8b87d4ac2f33828052802764cbe26b1c0f6ba242bdb487b0711c",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261112T003617Z-22564.jsonl",
+     "lignes": 3,
+     "fin": "d77ee7b01f7bafee5e4783d522c5c838cb635bfa0939faf8ac2ef5fa7f5c78ba",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261112T012236Z-3844.jsonl",
+     "lignes": 1,
+     "fin": "9f57004af88562af848517ed5afaf4e8060eb0fe51250671f3f0c757e66a49ae",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261112T014942Z-6192.jsonl",
+     "lignes": 1,
+     "fin": "42e030a2c8098d969caed531e070dd90f6b251f74bdf47550ea32ce7010ebaff",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261112T073813Z-9972.jsonl",
+     "lignes": 1,
+     "fin": "7a2e57b95e31db13aec329404de31d3051337a6f76330f0fad814aa86a55fe10",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261112T094141Z-18992.jsonl",
+     "lignes": 1,
+     "fin": "e3f18777cc76166116030b35e015de73d0e441da13b1fff891ab8696e41181e8",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261112T103546Z-10776.jsonl",
+     "lignes": 1,
+     "fin": "7123ad123eca27eed3ea8ef0a0386a96f253edac5409d4fc08612c81f70d5a25",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261112T165304Z-4056.jsonl",
+     "lignes": 1,
+     "fin": "a09541292e01a4416461921979a1dba41fcfd29d803b019b3c1dd2bde46cb52c",
+     "stop": false
+    }
+   ]
+  },
+  {
+   "jour": "20261113",
+   "clos": 0,
+   "empreinte": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+   "ouverts": [
+    {
+     "nom": "audit-20261113T005853Z-26408.jsonl",
+     "lignes": 1,
+     "fin": "a9b2da9b0259a9a08b9b78a6f4bcf9922000c01fefff02df4f8d899af2b445d7",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261113T065111Z-31484.jsonl",
+     "lignes": 1,
+     "fin": "5521387d15b1dd3025dcf95f035db5655cb826894c812b9d2a9e27095d294413",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261113T103208Z-33680.jsonl",
+     "lignes": 1,
+     "fin": "a2dee2fa4117de79ccfa5868d1b466a8ca156a64e5a7ed35373d650cbc1cc912",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261113T152109Z-15904.jsonl",
+     "lignes": 1101,
+     "fin": "ce9eb51dc8d9e270a69652573dbe72995b0d0adfa6728c0ec049a15cb2981e56",
+     "stop": false
+    }
+   ]
+  },
+  {
+   "jour": "20261114",
+   "clos": 0,
+   "empreinte": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+   "ouverts": [
+    {
+     "nom": "audit-20261114T092501Z-20308.jsonl",
+     "lignes": 21230,
+     "fin": "c92481ef1dc395dc70cfad64ef8ff60a440a1778ec09b3eea505f4016de210a4",
+     "stop": false
+    }
+   ]
+  },
+  {
+   "jour": "20261115",
+   "clos": 2,
+   "empreinte": "47981154421e92276749e7a3300f71cc9f96c643ae240f89cd252d61073bf623",
+   "ouverts": [
+    {
+     "nom": "audit-20261115T200958Z-29484.jsonl",
+     "lignes": 1,
+     "fin": "fafcdd6c550f699a4b1bf570b13ff28a369ba4a342c3a1b031503582a9efbb43",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261115T215415Z-24988.jsonl",
+     "lignes": 3,
+     "fin": "ba06d5b132a136f3000836e354d1700c24a6aaea0cd74891891981e89fc4ad7c",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261115T223406Z-31060.jsonl",
+     "lignes": 883,
+     "fin": "3fcfff04d77ead18806968ac29383a68c5ba58816ab62b7394fe41010ac233c9",
+     "stop": false
+    }
+   ]
+  },
+  {
+   "jour": "20261116",
+   "clos": 7,
+   "empreinte": "8a778635660d5976b483842ecdd0b477a16adf10bb4212725965c752b4bc4f32",
+   "ouverts": [
+    {
+     "nom": "audit-20261116T163259Z-38636.jsonl",
+     "lignes": 22,
+     "fin": "56d809bab928231406264516d3b3bac1960d7a6b5589ddd5e73fcb6b06f9432b",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261116T235550Z-10196.jsonl",
+     "lignes": 1,
+     "fin": "224007a30cc3139775cb0212c6cba2fbae2fb59027539f7962f3d78e77a8bad0",
+     "stop": false
+    }
+   ]
+  },
+  {
+   "jour": "20261117",
+   "clos": 23,
+   "empreinte": "708833e669b2e286eacabe2b6341f45af4110b730dd1f444b28d1b8b36b773ca",
+   "ouverts": [
+    {
+     "nom": "audit-20261117T062757Z-19924.jsonl",
+     "lignes": 1,
+     "fin": "306e400b786db5d8ffb755ab954d1020fcd6f2f40cdfd8ac7d3c59105ea40c06",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261117T062850Z-23428.jsonl",
+     "lignes": 26917,
+     "fin": "447cf1b967ff3df259c96ae20843d8acb4ea78a2605d9ea317227c93c9eece19",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261117T063235Z-8908.jsonl",
+     "lignes": 3,
+     "fin": "7f7203e1dd7a55299bc3299fc0cb2766852b4962e01ff5a2f0459e8a59bd8039",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261117T130158Z-15604.jsonl",
+     "lignes": 1,
+     "fin": "8717d653823fd2196cbb8a186560dac3a9c8cd4f4d46ffcc93b87a597644ec7d",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261117T212219Z-18796.jsonl",
+     "lignes": 1,
+     "fin": "31f28063ce2bc58af851c275d940f1dfee3383bc749d2bfa4709fcb2f9029360",
+     "stop": false
+    }
+   ]
+  },
+  {
+   "jour": "20261118",
+   "clos": 13,
+   "empreinte": "4d036ce320160ceee33d1ac7162d6645dc79464fd8818ffe62981bc2adc1a1d6",
+   "ouverts": [
+    {
+     "nom": "audit-20261118T005605Z-21040.jsonl",
+     "lignes": 1,
+     "fin": "c509126e6e505af845f3f249945db07f1a772a5f111f0a1d04c026e1dfe79838",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261118T084745Z-21132.jsonl",
+     "lignes": 1,
+     "fin": "63af2871275b5876f587d058d886b64db16e46c9b642d759922d51275f38817d",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261118T091650Z-3608.jsonl",
+     "lignes": 4985,
+     "fin": "865634acf86698f6c7c5925b542f728a2e8542074382aeacfd171556321c3789",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261118T100125Z-29272.jsonl",
+     "lignes": 1,
+     "fin": "b1a59c26a8fcadb2f80da1b08ca5b30f56f6e7061703d35242dcd9625003b9a9",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261118T133303Z-29376.jsonl",
+     "lignes": 1,
+     "fin": "2cb15c49864a88d78b5fdc68a538060c7c2dd5a565ae27d2f82152d4c51b7aaf",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261118T133950Z-11048.jsonl",
+     "lignes": 2993,
+     "fin": "cef4c234a2e24382bb0c985f3d7bc5f2072e40b9d84143c61f5fb14264a755bf",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261118T161301Z-14092.jsonl",
+     "lignes": 9821,
+     "fin": "452e5ccd18cd4befe52fededbfbe30cae1ea34fb62c65de6cd535869101da6a0",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261118T212004Z-18236.jsonl",
+     "lignes": 1,
+     "fin": "d7b568065ea02087f42c54992a7b134fecdffb2a1a71e1729b6ac11d5c58e99c",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261118T231645Z-13864.jsonl",
+     "lignes": 1,
+     "fin": "0e919175169860e756cbfb15e2916f63da75a2c87c058c9a8aa6e6f1d4343259",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261118T235044Z-22364.jsonl",
+     "lignes": 1,
+     "fin": "3fcd1c62291c2c8f2c40f5901853cc00445108e4a2aa4eab67d52b4bc4b00d77",
+     "stop": false
+    }
+   ]
+  },
+  {
+   "jour": "20261119",
+   "clos": 220,
+   "empreinte": "92a00b43002f3224e6263458bc5c69f5e0e31a025f7f40d01f511825ec0428b2",
+   "ouverts": [
+    {
+     "nom": "audit-20261119T004637Z-33640.jsonl",
+     "lignes": 1,
+     "fin": "24458907a10541bdb067877ac02ce49ce762f06e85e4ef468003fe065b58582c",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261119T020131Z-18132.jsonl",
+     "lignes": 1,
+     "fin": "b1bc6de6e587488237dac8a0fd1e7f3e629740d419c10c944a08b9a29d5771db",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261119T020259Z-14164.jsonl",
+     "lignes": 5992,
+     "fin": "6199691da8f78936078ec548991250fc650ed3a7cccf0849f671962d1aa70655",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261119T070105Z-34856.jsonl",
+     "lignes": 1,
+     "fin": "88d1a3929027c33d6ffd09d2cd661fdf960ed6298e59ba4832becb0e5dda9a70",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261119T081014Z-26444.jsonl",
+     "lignes": 2927,
+     "fin": "901ec20ca6a80438a1d921794e4b05bf065b69c302ea97a15aa993bc6ed021c7",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261119T113051Z-12448.jsonl",
+     "lignes": 4261,
+     "fin": "704450afd95e1525f9d03a5a906eaafcf65f87f9a2eb2546f5b2cd36ddfb581f",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261119T133022Z-28080.jsonl",
+     "lignes": 1,
+     "fin": "824498c81410ec73fc86eb4355c4542c11964358409b01a0b250f7a4aae2c183",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261119T163500Z-33244.jsonl",
+     "lignes": 1,
+     "fin": "5581955488bdb3d19ceafaa0fa28ce8ba7f784f23322f2cb2eb972213a4f453a",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261119T164821Z-25372.jsonl",
+     "lignes": 1050,
+     "fin": "35fc54030551d373ad0829a3739f4cf1e224265c83b23e4416a73d01af2ed76a",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261119T175026Z-2500.jsonl",
+     "lignes": 8000,
+     "fin": "01d9aabf9045e17e0f64133ec6523931d3744999902cb2ff3bb14630b69dfb04",
+     "stop": false
+    }
+   ]
+  },
+  {
+   "jour": "20261120",
+   "clos": 0,
+   "empreinte": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+   "ouverts": [
+    {
+     "nom": "audit-20261120T110341Z-15856.jsonl",
+     "lignes": 1,
+     "fin": "6ce0dcafb08664e7267ffa1187a40e24b6c4d492f2a71e55a6f981f074f9098f",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261120T134050Z-22360.jsonl",
+     "lignes": 979,
+     "fin": "947e2e82d69fbfc48873e67fdf9e6d54805f437da3323f85b95b7a8eada8a49c",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261120T144259Z-34196.jsonl",
+     "lignes": 25779,
+     "fin": "f82527423fa4825dad79539fcb183d2979ee83eebbfc638a603bc4527a6841fb",
+     "stop": false
+    }
+   ]
+  },
+  {
+   "jour": "20261122",
+   "clos": 28,
+   "empreinte": "5b30ab56c0fe8853b0e47049e20555d9f3ec85369939e8f5ccbf8d2fa72cf6e1",
+   "ouverts": [
+    {
+     "nom": "audit-20261122T153434Z-25912.jsonl",
+     "lignes": 1114,
+     "fin": "23df53bae94891dd856d999cfb78c2fa0ea4c8dbe099fabd6820b6eedb6d6863",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261122T164446Z-31820.jsonl",
+     "lignes": 181,
+     "fin": "96ccd473d7d7f97dbed47c6a185fee411c5e779f7dc9e8530a64f741f08d925f",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261122T165454Z-36676.jsonl",
+     "lignes": 150,
+     "fin": "b184be5bfab6f3f2ba3a6c5ab7dfeee97e6b87e9a45c2e4f17b4c302776dc86c",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261122T170456Z-12916.jsonl",
+     "lignes": 981,
+     "fin": "63d89dc6212cf11ab52c4195fe6be9bad33f893e7e319973c07d909a989d0ba8",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261122T180604Z-38060.jsonl",
+     "lignes": 903,
+     "fin": "48744cb3844ecf794688b06bf4d6adb81b816133ca953c4fc8e63b14e0e9fc61",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261122T190040Z-2244.jsonl",
+     "lignes": 849,
+     "fin": "6bd28b05152ec6915e54bdf3111263ef588dc7d4ef7abe7d157c7221435840e2",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261122T194709Z-11188.jsonl",
+     "lignes": 1,
+     "fin": "eca8ced3bb66802e78f722da19105deb27a2088e0ea112bb92c00d6f15cbe1d9",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261122T194908Z-37924.jsonl",
+     "lignes": 4453,
+     "fin": "7c104bae9acc7cf48e2814b9ebd8ab667f8e0dd50d3229ee79137e0f808a3931",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261122T234918Z-13112.jsonl",
+     "lignes": 2945,
+     "fin": "ec26533eca133e4fb0c5fc24b9e0d1072132c99bdfd27739e94978f1d7de054d",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261122T235528Z-14680.jsonl",
+     "lignes": 1,
+     "fin": "22ec4484f4229ea0e3372eda8c67eb2d02d738a331e54695bab9b5e195273b21",
+     "stop": false
+    }
+   ]
+  },
+  {
+   "jour": "20261123",
+   "clos": 32,
+   "empreinte": "976b53688ab1de69469d580d41ef65615e8a7cd45c411666b64e9f40c25bda52",
+   "ouverts": [
+    {
+     "nom": "audit-20261123T025106Z-9724.jsonl",
+     "lignes": 1,
+     "fin": "ec957e09f484bfd64d2dcd2e149b78298a6eeddb9aee0447ff6abf4d8786c4cd",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261123T025117Z-14404.jsonl",
+     "lignes": 5745,
+     "fin": "aff8596ecb18edf2665ed1a4fffd9dac3b8a2c9803d377f967ca9f65843711a9",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261123T025424Z-12652.jsonl",
+     "lignes": 1,
+     "fin": "aeb414073656873a432e73526ecc8db51b6b170febf2343db694ddc6e3306f5b",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261123T083358Z-28668.jsonl",
+     "lignes": 1,
+     "fin": "d2408963dd38b500991eecc8b44e2eb730ca91754c6cd4824ade52df6c4288a5",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261123T083552Z-15912.jsonl",
+     "lignes": 3675,
+     "fin": "5442f7e8be702cfc6562e3c30a2987a3a0b39ed3cce1b725385f77a293716f04",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261123T104615Z-13216.jsonl",
+     "lignes": 1,
+     "fin": "1cc4c87edc00ab03662bc4c19b1f36bfd85ed843098bb08095480d37221b096e",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261123T120833Z-27112.jsonl",
+     "lignes": 1,
+     "fin": "b55b01f59ca8f72e0dfd72192aec8cd5367a9fb83b1855b268fd50b6610ff66c",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261123T121009Z-28316.jsonl",
+     "lignes": 1099,
+     "fin": "4ca5b342564ca15bccb491b772c9e52a0b8f47d2a4d9b42572ba8c20a451cd3c",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261123T131325Z-22112.jsonl",
+     "lignes": 1,
+     "fin": "d1233b65c40919d98013a14e26e4c039697daad9a8338e33f2805b6b52f6c599",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261123T131508Z-32120.jsonl",
+     "lignes": 1607,
+     "fin": "26dc82ba11166ab77f55f554169dc4ae7c3a0be6cf773b9f9fd33fabe48a54dc",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261123T144343Z-22580.jsonl",
+     "lignes": 1,
+     "fin": "da51da0b0e073b0132fe5b870f79e0c47e283f7b24ad7928aa14999946d07612",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261123T144547Z-17496.jsonl",
+     "lignes": 4427,
+     "fin": "df2924c81a751cf74c5c4d946346c840c749748a94d828cf8aa6e1798e33c29e",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261123T185156Z-21784.jsonl",
+     "lignes": 1,
+     "fin": "8a0b295831b8b28d9b4f36106af5e4e4e8ce129aa81618602cbf61d3588e1f18",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261123T191514Z-10320.jsonl",
+     "lignes": 1,
+     "fin": "9e3c4bb8baed8da21fe40f6d3c3f803e90707cb141c00d3e8aa05d34b8d5310b",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261123T191749Z-29284.jsonl",
+     "lignes": 4465,
+     "fin": "502c1ff17b63d5d858456e26be871bf8cf5fbf6f07a68d0b3fce17b451d39f11",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261123T232234Z-10708.jsonl",
+     "lignes": 1,
+     "fin": "8f02852d6c99d044e1ea85709747f337bd731ef2bcf15a41d5294c6a4cc521bb",
+     "stop": false
+    },
+    {
+     "nom": "audit-20261123T234759Z-19112.jsonl",
+     "lignes": 1187,
+     "fin": "542cf1e126d686190015a80011ebb93649033248660d854b1f3e176eaa5794d1",
+     "stop": false
+    }
+   ]
+  }
+ ],
+ "empreinte": "af77d0bbfe11bf6de9b32b8c9dd6c37bb64d9c9db53a11294bdc1ddc6a683d7f"
+}
